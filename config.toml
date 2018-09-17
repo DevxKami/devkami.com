@@ -1,4 +1,4 @@
-baseurl = "https://devkami.com"
+baseurl = "https://devkami-com.netlify.com"
 DefaultContentLanguage = "en"
 title = "Dev Kami"
 theme = "beautifulhugo"
