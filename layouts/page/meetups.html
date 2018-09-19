@@ -9,6 +9,7 @@
         {{ .Content }}
         <ul>
           {{ range sort .Site.Data.meetups.list "date" }}
+          {{ if ge (time .date) (now.AddDate 0 0 -1) }}
             <li class="list-group-item d-flex justify-content-between align-items-center"
             style="margin: 10px; border-radius: 15px">
                 <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ .group }}</span>
