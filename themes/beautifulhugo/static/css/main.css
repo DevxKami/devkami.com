@@ -356,7 +356,7 @@ footer .theme-by {
 
 .post-preview a:focus,
 .post-preview a:hover {
-  text-decoration: none;
+  /* text-decoration: none; */
   color: #0085a1;
 }
 
@@ -722,7 +722,7 @@ input.gsc-input, .gsc-input-box, .gsc-input-box-hover, .gsc-input-box-focus, .gs
 
 .iframe-container {
   position: relative;
-  width: 100%
+  width: 100%;
   height: 0;
   padding-bottom: 56.25%;
 }
@@ -732,5 +732,5 @@ iframe.video {
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%; 
+  height: 100%;
 }
