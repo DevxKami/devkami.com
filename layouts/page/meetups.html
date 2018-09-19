@@ -9,6 +9,7 @@
             <li>
               {{ .name }}<br />
               {{ .date }}<br />
+              {{ .venue }}<br />
               {{ .address }}<br />
               <a href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml' target="_blank">
                 Add to Google Calendar
