@@ -3,7 +3,7 @@ template:
   map: ""
   address: ""
   venue: ""
-  date: 2018-10-03T19:00+08:00
+  date: 2018-10-03T19:00:00+08:00
   dates: "20181003T190000/20181003T210000"
   link: ""
 
@@ -22,28 +22,28 @@ list:
   map: "https://goo.gl/maps/eMeuapNw36L2"
   address: "Menara Ta One, KLCC 22, Jalan P. Ramlee, Kuala Lumpur"
   venue: "One Auditorium"
-  date: 2018-10-25T08:00+08:00
+  date: 2018-10-25T08:00:00+08:00
   dates: "20181025T080000/20181026T170000"
   link: "https://rubyconf.my/"
 - name: "LawTech Hackathon: Calling Law Geeks and Techies to join!"
   map: "https://goo.gl/maps/XVrKtENAS1k"
   address: "Jalan Peel, Maluri Kuala Lumpur, Malaysia"
   venue: "Sunway Velocity TWO Sales Gallery"
-  date: 2018-10-20T08:00+08:00
+  date: 2018-10-20T08:00:00+08:00
   dates: "20181020T080000/20181021T190000"
   link: "https://www.facebook.com/events/243902416463006/"
 - name: "Rust Lang: Project X"
   <<: *suria_labs
-  date: 2018-10-03T19:00+08:00
+  date: 2018-10-03T19:00:00+08:00
   dates: "20181003T190000/20181003T210000"
   link: https://www.facebook.com/events/190938831689130
 - name: "Golang: September"
   <<: *suria_labs
-  date: 2018-09-25T19:30+08:00
+  date: 2018-09-25T19:30:00+08:00
   dates: "20180925T193000/20181003T213000"
   link: "https://www.facebook.com/events/1953544534668666"
 - name: "Civic Tech: What is it and how do you contribute?"
   <<: *mindvalley
-  date: 2018-09-26T19:00+08:00
+  date: 2018-09-26T19:00:00+08:00
   dates: "20180926T190000/20181003T210000"
   link: "https://www.facebook.com/events/718511428502124"

@@ -4,22 +4,22 @@
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <ul class="event-list">
-          {{ range sort .Site.Data.meetups.list "date" }}
-
-            <li class="event-entry">
-              <div class="date">{{ .date }}</div>
-              <div class="name">{{ .name }}</div>
-              <div class="venue">{{ .venue }}</div>
-              <div class="venue">{{ .address }}</div>
-              <div class="venue"><a href="{{ .link }}" target="_blank">Event page</a></div>
-              <div class="venue"><a href="{{ .map }}" target="_blank">Map</a></div>
-              <div class="add-to-google-calendar">
-                <a href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml' target="_blank">
-                  Add to Google Calendar
-                </a>
-              </div>
-            </li>
-
+          {{ range (sort .Site.Data.meetups.list "date") }}
+            {{ if ge (time .date) (now.AddDate 0 0 -1) }}
+              <li class="event-entry">
+                <div class="date">{{ .date }}</div>
+                <div class="name">{{ .name }}</div>
+                <div class="venue">{{ .venue }}</div>
+                <div class="venue">{{ .address }}</div>
+                <div class="venue"><a href="{{ .link }}" target="_blank">Event page</a></div>
+                <div class="venue"><a href="{{ .map }}" target="_blank">Map</a></div>
+                <div class="add-to-google-calendar">
+                  <a href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml' target="_blank">
+                    Add to Google Calendar
+                  </a>
+                </div>
+              </li>
+              {{ end }}
           {{ end }}
         </ul>
 
