@@ -6,12 +6,13 @@
         {{ .Content }}
 
         <ul>
-          {{ range .Site.Data.meetups }}
+          {{ range sort .Site.Data.meetups "date" }}
 
             <li>
               {{ .name }}<br />
-              {{ .dates }}<br />
+              {{ .date }}<br />
               {{ .address }}<br />
+              <a href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml' target="_blank">Add to calendar</a><br />
               <a href="{{ .map }}" target="_blank">Map</a><br />
               <a href="{{ .link }}" target="_blank">Event page</a><br />
             </li>

@@ -1,17 +1,20 @@
+- name: "Rust Lang: Project X"
+  date: 2018-10-03T19:00+08:00
+  dates: 20181003T190000/20181003T210000
+  map: "https://goo.gl/maps/ik9uWtxxKs52"
+  address: "Suria Labs B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South
+Kuala Lumpur, Malaysia"
+  link: https://www.facebook.com/events/190938831689130
 - name: "Golang: September"
-  dates: 2018-09-25T19:30+08:00
+  date: 2018-09-25T19:30+08:00
+  dates: 20181003T193000/20181003T213000
   map: "https://goo.gl/maps/ik9uWtxxKs52"
   address: "Suria Labs B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South
 Kuala Lumpur, Malaysia"
   link: "https://www.facebook.com/events/1953544534668666"
 - name: "Civic Tech: What is it and how do you contribute?"
-  dates: 2018-09-26T19:00+08:00
+  date: 2018-09-26T19:00+08:00
+  dates: 20181003T190000/20181003T210000
   map: "https://goo.gl/maps/n5rZ7Nfv3qs"
   address: "Mindvalley Hall of Awesomeness Tower A Level 29 Bangsar 59000 Kuala Lumpur, Malaysia"
   link: "https://www.facebook.com/events/718511428502124"
-- name: "Rust Lang: Project X"
-  dates: 2018-09-25T19:00+08:00
-  map: "https://goo.gl/maps/ik9uWtxxKs52"
-  address: "Suria Labs B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South
-Kuala Lumpur, Malaysia"
-  link: https://www.facebook.com/events/190938831689130
