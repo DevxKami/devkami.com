@@ -6,7 +6,7 @@ type: "page"
 layout: "meetups"
 ---
 
-Want your meetup added? Send a PR for this data file: https://github.com/DevxKami/devkami.com/blob/master/data/meetups.yml and we'll get it merged for you! :)
+Want your meetup added? Send a [PR](https://github.com/DevxKami/devkami.com/blob/master/data/meetups.yml) and we'll get it merged for you! :)
 
 <script>
 var content = document.getElementsByClassName("blog-post")[0];
