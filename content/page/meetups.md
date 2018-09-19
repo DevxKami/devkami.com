@@ -1,6 +1,6 @@
 ---
 title: Meetups
-subtitle: Come and connect with fellow developers!
+subtitle: Picked and curated with love by actual human beings
 comments: false
 type: "page"
 layout: "meetups"

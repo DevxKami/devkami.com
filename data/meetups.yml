@@ -18,6 +18,13 @@ suria_labs: &suria_labs
   venue: "Suria Labs"
 
 list:
+- name: "RubyConf MY 2018"
+  map: "https://goo.gl/maps/eMeuapNw36L2"
+  address: "Menara Ta One, KLCC 22, Jalan P. Ramlee, Kuala Lumpur"
+  venue: "One Auditorium"
+  date: 2018-10-25T08:00+08:00
+  dates: "20181025T080000/20181026T170000"
+  link: "https://rubyconf.my/"
 - name: "LawTech Hackathon: Calling Law Geeks and Techies to join!"
   map: "https://goo.gl/maps/XVrKtENAS1k"
   address: "Jalan Peel, Maluri Kuala Lumpur, Malaysia"
