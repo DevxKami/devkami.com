@@ -6,7 +6,7 @@
         {{ .Content }}
 
         <ul>
-          {{ range sort .Site.Data.meetups "date" }}
+          {{ range sort .Site.Data.meetups.list "date" }}
 
             <li>
               {{ .name }}<br />
