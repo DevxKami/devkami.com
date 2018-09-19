@@ -2,7 +2,6 @@
 title: Meetups
 subtitle: Pickled and Curated with Love by Actual Human Beings
 comments: false
-type: "page"
 layout: "meetups"
 ---
 
