@@ -1,6 +1,6 @@
 baseurl = "https://devkami.com"
 DefaultContentLanguage = "en"
-title = "Dev Kami"
+title = "DevKami"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"

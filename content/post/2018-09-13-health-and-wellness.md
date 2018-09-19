@@ -1,5 +1,5 @@
 ---
-title: "Episode #3: Health and Welleness"
+title: "Episode #3: Health and Wellness"
 date: 2018-09-14T18:29:29+08:00
 draft: false
 ---
