@@ -16,10 +16,10 @@ list:
 - name: "Golang: September"
   <<: *suria_labs
   date: 2018-09-25T19:30+08:00
-  dates: 20181003T193000/20181003T213000
+  dates: 20180925T193000/20181003T213000
   link: "https://www.facebook.com/events/1953544534668666"
 - name: "Civic Tech: What is it and how do you contribute?"
   <<: *mindvalley
   date: 2018-09-26T19:00+08:00
-  dates: 20181003T190000/20181003T210000
+  dates: 20180926T190000/20181003T210000
   link: "https://www.facebook.com/events/718511428502124"
