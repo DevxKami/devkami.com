@@ -734,3 +734,7 @@ iframe.video {
   width: 100%;
   height: 100%;
 }
+
+.post-preview .post-entry a {
+  text-decoration: underline;
+}
