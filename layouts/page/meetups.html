@@ -1,29 +1,37 @@
 {{ define "main" }}
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+</head>
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
-        <ul class="event-list">
-          {{ range (sort .Site.Data.meetups.list "date") }}
-            {{ if ge (time .date) (now.AddDate 0 0 -1) }}
-              <li class="event-entry">
-                <div class="date">{{ .date }}</div>
-                <div class="name">{{ .name }}</div>
-                <div class="venue">{{ .venue }}</div>
-                <div class="venue">{{ .address }}</div>
-                <div class="venue"><a href="{{ .link }}" target="_blank">Event page</a></div>
-                <div class="venue"><a href="{{ .map }}" target="_blank">Map</a></div>
-                <div class="add-to-google-calendar">
-                  <a href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml' target="_blank">
-                    Add to Google Calendar
-                  </a>
+        {{ .Content }}
+        <ul>
+          {{ range sort .Site.Data.meetups.list "date" }}
+            <li class="list-group-item d-flex justify-content-between align-items-center"
+            style="margin: 10px; border-radius: 15px">
+                <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ .group }}</span>
+                <p>
+                  <h3 class="card-title">{{ .name }}</h3>
+                  <h4 class="card-subtitle text-muted">{{ .display_date }}, {{ .venue }}</h4>
+                  <a href="{{ .map }}" target="_blank">{{ .address }}</a>
+                  <div class="card-text">{{ .description }} </div>
+                </p>
+                <div class="btn-group" role="group" aria-label="Basic example">
+                  {{ if .address }}
+                  <a href="{{ .map }}" target="_blank" class="btn btn-primary">Map</a>
+                  {{ end }}
+                  {{ if .dates }}
+                    <a href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml'
+                    target="_blank" class="btn btn-primary">Add to calendar</a>
+                  {{ end }}
+                  <a href="{{ .link }}" target="_blank" class="btn btn-primary">Event page</a>
                 </div>
-              </li>
-              {{ end }}
+            </li>
+
           {{ end }}
         </ul>
-
-        {{ .Content }}
 
         {{ if .Params.tags }}
           <div class="blog-tags">
