@@ -15,6 +15,7 @@ date: 2018-09-20T23:25:21+08:00
 * [AutoIt](https://www.autoitscript.com/site/autoit/) - A scripting language designed for automating the Windows GUI
 * [Docker Hub Builds](https://docs.docker.com/docker-hub/builds/) - Configure automated builds on Docker Hub
 * [Power Shell](https://docs.microsoft.com/en-us/powershell/scripting/powershell-scripting) - A task-based command-line shell and scripting language
+<!--more-->
 * [Homesick](https://github.com/technicalpickles/homesick) - Don't leave your dotfiles behind
 * [Capistrano](https://capistranorb.com/) - A remote server automation and deployment tool
 * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool
