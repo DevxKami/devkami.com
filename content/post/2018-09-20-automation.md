@@ -21,3 +21,6 @@ date: 2018-09-20T23:25:21+08:00
 * [FreeBSD Jail](https://www.wikiwand.com/en/FreeBSD_jail) - partition a FreeBSD-based computer system into several independent mini-systems
 * [chroot](https://www.wikiwand.com/en/Chroot) - an operation that changes the apparent root directory for the current running process and its children
 * [pipenv](https://pipenv.readthedocs.io/en/latest/) - Python Dev Workflow for Humans
+* [rvm](https://rvm.io/) - a command-line tool which allows you to easily install, manage, and work with multiple ruby environments
+* [nvm](https://github.com/creationix/nvm/) - Simple bash script to manage multiple active node.js versions
+* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
