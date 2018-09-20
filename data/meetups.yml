@@ -3,47 +3,115 @@ template:
   map: ""
   address: ""
   venue: ""
+  display_date: ""
   date: 2018-10-03T19:00:00+08:00
   dates: "20181003T190000/20181003T210000"
   link: ""
+  group: ""
 
 mindvalley: &mindvalley
+  venue: "Mindvalley Hall of Awesomeness"
   map: "https://goo.gl/maps/n5rZ7Nfv3qs"
   address: "Level 29 Tower A Menara UOA Bangsar Kuala Lumpur, Malaysia"
-  venue: "Mindvalley Hall of Awesomeness"
 
 suria_labs: &suria_labs
+  venue: "Suria Labs"
   map: "https://goo.gl/maps/ik9uWtxxKs52"
   address: "B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South Kuala Lumpur, Malaysia"
-  venue: "Suria Labs"
+
+sunway_university: &sunway_university
+  venue: "Sunway University"
+  map: "https://goo.gl/maps/Z2sVv3FV2C92"
+  address: "5, Jalan Universiti, Bandar Sunway, 47500 Subang Jaya, Selangor"
+
+kdu_university_glenmarie: &kdu_university_glenmarie
+  venue: "KDU University Glenmarie"
+  map: "https://goo.gl/maps/zn7NQ7ec8qT2"
+  address: "Jalan Kontraktor U1/14, Seksyen U1, Glenpark U1, 40150 Shah Alam, Selangor"
+
+nu_sentral: &nu_sentral
+  venue: "NU Sentral"
+  map: "https://goo.gl/maps/gPxyS42heJv"
+  address: "201, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur"
+
+tbc: &tbc
+  venue: "Venue to be confirmed"
 
 list:
 - name: "RubyConf MY 2018"
   map: "https://goo.gl/maps/eMeuapNw36L2"
   address: "Menara Ta One, KLCC 22, Jalan P. Ramlee, Kuala Lumpur"
   venue: "One Auditorium"
+  display_date: Thu 25 - 26 October 2018, 8:00am - 5:00pm
   date: 2018-10-25T08:00:00+08:00
   dates: "20181025T080000/20181026T170000"
   link: "https://rubyconf.my/"
+  group: "Ruby"
+  
 - name: "LawTech Hackathon: Calling Law Geeks and Techies to join!"
   map: "https://goo.gl/maps/XVrKtENAS1k"
   address: "Jalan Peel, Maluri Kuala Lumpur, Malaysia"
   venue: "Sunway Velocity TWO Sales Gallery"
+  display_date: Sat 20 October 2018, 08:00am
   date: 2018-10-20T08:00:00+08:00
   dates: "20181020T080000/20181021T190000"
   link: "https://www.facebook.com/events/243902416463006/"
+
 - name: "Rust Lang: Project X"
   <<: *suria_labs
+  display_date: Wed 3 October 2018, 7:00pm - 9:00pm
   date: 2018-10-03T19:00:00+08:00
   dates: "20181003T190000/20181003T210000"
   link: https://www.facebook.com/events/190938831689130
+  group: "Rust"
+
 - name: "Golang: September"
   <<: *suria_labs
+  display_date: Tue 25 September 2018, 7:00pm - 9:00pm
   date: 2018-09-25T19:30:00+08:00
   dates: "20180925T193000/20181003T213000"
   link: "https://www.facebook.com/events/1953544534668666"
+  group: "Golang"
+
 - name: "Civic Tech: What is it and how do you contribute?"
   <<: *mindvalley
+  display_date: Sat 29 September 2018, 11:00am
   date: 2018-09-26T19:00:00+08:00
   dates: "20180926T190000/20181003T210000"
   link: "https://www.facebook.com/events/718511428502124"
+  group: "WWCode"
+
+- name: "DevFest Kuala Lumpur 2018"
+  <<: *sunway_university
+  date: 2018-12-01T19:00:00+08:00
+  display_date: Sat 1 December 2018
+  link: "https://events.gdgkl.org/devfest/"
+  group: "GDG"
+
+- name: "Google Cloud Next Extended 2018 Kuala Lumpur"
+  <<: *kdu_university_glenmarie
+  date: 2018-09-23T09:00:00+08:00
+  display_date: Sun 23 September 2018, 9:00am - 6:00pm
+  dates: 20180923T090000/20180923T180000
+  link: "https://next-extended-18-kl.peatix.com"
+  group: "Google Cloud Dev"
+
+- name: "Python Coffee Meet"
+  <<: *nu_sentral
+  date: 2018-09-29T09:00:00+08:00
+  display_date: Sat 29 September 2018, 11:00am
+  dates: 20180929T110000/20180929T120000
+  link: "https://www.facebook.com/events/193638548081705/"
+  group: "Python"
+  
+- name: "Hands-on Introduction to Internet of Things (IoT) using Arduino - Workshop"
+  <<: *tbc
+  date: 2018-10-06T10:00:00
+  display_date: Sat 6 October 2018, 10:00am - 6:00pm
+  dates: 20181006T100000/20181006T180000
+  link: "https://wwcodekl-iot-arduino.peatix.com/"
+  group: "WWCode"
+ 
+
+
+ 
