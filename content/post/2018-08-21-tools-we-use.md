@@ -7,3 +7,7 @@ draft: false
 <div class="iframe-container">
 <iframe class="video" src="https://www.youtube.com/embed/skpgtzA-IGQ?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+### Show notes
+
+* [VSCode](https://code.visualstudio.com/) - Code editing. Redefined. Free. Open source. Runs everywhere.

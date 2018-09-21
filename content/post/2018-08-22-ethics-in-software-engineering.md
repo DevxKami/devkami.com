@@ -7,3 +7,7 @@ draft: false
 <div class="iframe-container">
 <iframe class="video" src="https://www.youtube.com/embed/e-ax_MfHDzc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+### Show notes
+
+* [Craftsmanship and Ethics](https://www.infoq.com/presentations/craftmanship-ethics) - A tutorial on how to become a professional developer.

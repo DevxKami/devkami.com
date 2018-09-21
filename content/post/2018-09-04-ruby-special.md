@@ -7,3 +7,7 @@ draft: false
 <div class="iframe-container">
 <iframe class="video" src="https://www.youtube.com/embed/Msay536IWhE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+### Show notes
+
+* [LawTech Hackathon](https://lawtech.peatix.com/) - Calling Law Geeks and Techies to join! #MYlegalhack
