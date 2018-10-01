@@ -12,6 +12,10 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+# Add staticman API URL to enable staticman comments
+staticman_api = "https://staticman-devkami-com.herokuapp.com/v2/entry/DevxKami/devkami.com/master/meetups"
+
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Anything and Everything About Developers.<br /> Unedited. Unscripted. Unreal."
