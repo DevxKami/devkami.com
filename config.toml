@@ -12,9 +12,6 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
-# Add staticman API URL to enable staticman comments
-staticman_api = "https://staticman-devkami-com.herokuapp.com/v2/entry/DevxKami/devkami.com/master/meetups"
-
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
@@ -29,6 +26,11 @@ staticman_api = "https://staticman-devkami-com.herokuapp.com/v2/entry/DevxKami/d
   useHLJS = true
   socialShare = false
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+  # Add staticman API URL to enable staticman comments
+  staticman_api = "https://staticman-devkami-com.herokuapp.com/v2/entry/DevxKami/devkami.com/master/meetups"
+
+
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
