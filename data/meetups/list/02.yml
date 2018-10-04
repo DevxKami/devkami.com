@@ -2,8 +2,8 @@ name: "RubyConf MY 2018"
 map: "https://goo.gl/maps/eMeuapNw36L2"
 address: "Menara Ta One, KLCC 22, Jalan P. Ramlee, Kuala Lumpur"
 venue: "One Auditorium"
-display_date: Thu 25 - 26 October 2018, 8:00am - 5:00pm
-date: 2018-10-25T08:00:00+08:00
+
+from: 2018-10-25T08:00:00+08:00
 dates: "20181025T080000/20181026T170000"
 link: "https://rubyconf.my/"
 tags: ["Ruby"]

@@ -2,8 +2,8 @@ name: "LawTech Hackathon: Calling Law Geeks and Techies to join!"
 map: "https://goo.gl/maps/XVrKtENAS1k"
 address: "Jalan Peel, Maluri Kuala Lumpur, Malaysia"
 venue: "Sunway Velocity TWO Sales Gallery"
-display_date: Sat 20 October 2018, 08:00am
-date: 2018-10-20T08:00:00+08:00
+
+from: 2018-10-20T08:00:00+08:00
 dates: "20181020T080000/20181021T190000"
 link: "https://www.facebook.com/events/243902416463006/"
 tags: []
