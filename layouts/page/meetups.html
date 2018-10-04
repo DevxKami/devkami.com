@@ -87,12 +87,12 @@
           </div>
 
 
-          <script>
+        <script>
           flatpickr(".flatpickr", {
             enableTime: true,
             dateFormat: "Z",
             altInput: true,
-            altFormat: "F j, Y",
+            altFormat: "F j, Y h:iK",
           });
 
           var content = document.getElementsByClassName("blog-post")[0];
@@ -111,7 +111,7 @@
               weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
             }))
           }
-          </script>
+        </script>
 
 
         {{ if .Params.tags }}
