@@ -1,22 +1,23 @@
 {{ define "main" }}
-<head>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-</head>
 <div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <ul class="event-list">
-          {{ range sort .Site.Data.meetups.list "date" }}
-            {{ if ge (time .date) (now.AddDate 0 0 -1) }}
+          {{ range sort .Site.Data.meetups.list "from" }}
+            {{ if ge (time .from) (now.AddDate 0 0 -1) }}
               <li class="event-entry list-group-item d-flex justify-content-between align-items-center"
                 style="margin: 10px; border-radius: 15px">
-                {{ range .tags }}
-                <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ . }}</span>
-                {{ end }}
+                {{ if eq (printf "%T" .tags) "[]interface {}" }}
+                  {{ range .tags }}
+                  <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ . }}</span>
+                  {{ end }}
+                {{ else }}
+                  <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ .tags }}</span>
+                {{ end}}
                 <p>
                   <h3 class="name card-title">{{ .name }}</h3>
-                  <h4 class="details card-subtitle text-muted">{{ .display_date }}, {{ .venue }}</h4>
+                  <h4 class="details card-subtitle text-muted"><span class="human-date">{{ .from }}</span>, {{ .venue }}</h4>
                   <a class="address" href="{{ .map }}" target="_blank">{{ .address }}</a>
                 </p>
                 <div class="btn-group" role="group">
@@ -36,17 +37,76 @@
 
         {{ .Content }}
 
-<!--
-        <form method="POST" action="{{ .Site.Params.staticman_api }}">
-          <input name="options[redirect]" type="hidden" value="{{ .Permalink }}#post-submitted">
-          <input name="options[redirectError]" type="hidden" value="{{ .Permalink }}#post-error">
-          <label><input name="fields[name]" type="text">Name</label>
-          <label><input name="fields[email]" type="email">E-mail</label>
-          <label><textarea name="fields[message]"></textarea>Message</label>
+          <div id="new-meetup-form">
+            <form method="POST" action="{{ .Site.Params.staticman_api }}">
+              <input name="options[redirect]" type="hidden">
+              <input name="options[redirectError]" type="hidden">
+              <div class="form-group">
+                <label for="eventName">Event Name</label>
+                <input class="form-control" id="eventName" name="fields[name]" type="text" placeholder="RubyConf MY 2018">
+              </div>
+              <div class="row">
+                <div class="form-group col-sm-6">
+                  <label for="eventStart">Event Start</label>
+                  <input class="flatpickr form-control" id="eventStart" name="fields[from]" type="text" placeholder="Select Date ...">
+                </div>
+                <div class="form-group col-sm-6">
+                  <label for="eventEnd">Event End</label>
+                  <input class="flatpickr form-control" id="eventEnd" name="fields[to]" type="text" placeholder="Select Date ...">
+                </div>
+              </div>
+              <div class="row">
+                <div class="form-group col-sm-6">
+                  <label for="venue">Venue</label>
+                  <input class="form-control" id="venue" name="fields[venue]" type="text" placeholder="Suria Labs">
+                </div>
+                <div class="form-group col-sm-6">
+                  <label for="map">Map Link</label>
+                  <input class="form-control" id="map" name="fields[map]" type="text" placeholder="https://goo.gl/maps/ik9uWtxxKs52">
+                </div>
+              </div>
+              <div class="form-group">
+                <label for="address">Address</label>
+                <input class="form-control" id="address" name="fields[address]" type="text" placeholder="B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South Kuala Lumpur, Malaysia">
+              </div>
+              <div class="row">
+                <div class="form-group col-sm-6">
+                    <label for="venue">Event link</label>
+                    <input class="form-control" id="link" name="fields[link]" type="text" placeholder="Suria Labs">
+                  </div>
+                  <div class="form-group col-sm-6">
+                    <label for="tags">Tag</label>
+                    <input class="form-control" id="tags" name="fields[tags]" type="text" placeholder="Ruby">
+                  </div>
+                </div>
+              <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+          </div>
 
-          <button type="submit">Go!</button>
-        </form>
- -->
+
+          <script>
+          flatpickr(".flatpickr", {
+            enableTime: true,
+            dateFormat: "Z",
+            altInput: true,
+            altFormat: "F j, Y",
+          });
+
+          var content = document.getElementsByClassName("blog-post")[0];
+          var links = content.getElementsByTagName("a");
+
+          for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+             if (links[i].hostname != window.location.hostname) {
+                links[i].target = '_blank';
+             }
+          }
+
+          var humanDates = document.querySelectorAll(".human-date");
+          for (var i = 0; i < humanDates.length; i++) {
+            humanDates[i].textContent = ((new Date(humanDates[i].textContent)).toLocaleDateString('en-GB', {weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'}))
+          }
+          </script>
+
 
         {{ if .Params.tags }}
           <div class="blog-tags">
