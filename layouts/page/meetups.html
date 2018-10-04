@@ -42,8 +42,8 @@
 
           <div id="new-meetup-form">
             <form method="POST" action="{{ .Site.Params.staticman_api }}">
-              <input name="options[redirect]" type="hidden">
-              <input name="options[redirectError]" type="hidden">
+              <input name="options[redirect]" type="hidden" value="{{ .Permalink }}#post-submitted">
+              <input name="options[redirectError]" type="hidden" value="{{ .Permalink }}#post-submitted">
               <div class="form-group">
                 <label for="eventName">Event Name</label>
                 <input class="form-control" id="eventName" name="fields[name]" type="text" placeholder="RubyConf MY 2018">
