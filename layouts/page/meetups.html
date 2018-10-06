@@ -16,8 +16,10 @@
                     <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ . }}</span>
                   {{ end }}
                 {{ else }}
-                  <!-- parse comma separated tag string here -->
-                  <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ .tags }}</span>
+                  <!-- yml has tags as a string comma separated -->
+                  {{range (split .tags ",") }}
+                    <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ . }}</span>
+                  {{ end }}
                 {{ end}}
                 <p>
                   <h3 class="name card-title">{{ .name }}</h3>
@@ -55,44 +57,44 @@
               <input name="options[redirectError]" type="hidden" value="{{ .Permalink }}#post-submitted">
               <div class="form-group">
                 <label for="eventName">Event Name</label>
-                <input class="form-control" id="eventName" name="fields[name]" type="text" placeholder="RubyConf MY 2018">
+                <input class="form-control" id="eventName" name="fields[name]" type="text" placeholder="(e.g.) RubyConf MY 2018">
               </div>
 
               <div class="row">
                 <div class="form-group col-sm-6">
                   <label for="eventStart">Event Start</label>
-                  <input class="flatpickr form-control" id="eventStart" name="fields[from]" type="text" placeholder="Select Date ...">
+                  <input class="flatpickr form-control" id="eventStart" name="fields[from]" type="text" placeholder="Select Date and Time...">
                 </div>
                 <div class="form-group col-sm-6">
                   <label for="eventEnd">Event End</label>
-                  <input class="flatpickr form-control" id="eventEnd" name="fields[to]" type="text" placeholder="Select Date ...">
+                  <input class="flatpickr form-control" id="eventEnd" name="fields[to]" type="text" placeholder="Select Date and Time...">
                 </div>
               </div>
 
               <div class="row">
                 <div class="form-group col-sm-6">
                   <label for="venue">Event link</label>
-                  <input class="form-control" id="link" name="fields[link]" type="text" placeholder="Suria Labs">
+                  <input class="form-control" id="link" name="fields[link]" type="text" placeholder="(e.g.) https://wwcodekl-healt-tech.peatix.com/">
                 </div>
                 <div class="form-group col-sm-6">
                   <label for="tags">Tag</label>
-                  <input class="form-control" id="tags" name="fields[tags]" type="text" placeholder="Ruby">
+                  <input class="form-control" id="tags" name="fields[tags]" type="text" placeholder="comma separated (e.g.) Ruby, Javascript">
                 </div>
               </div>
 
               <div class="form-group">
                 <label for="address">Address</label>
-                <input class="form-control" id="address" name="fields[address]" type="text" placeholder="B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South Kuala Lumpur, Malaysia">
+                <input class="form-control" id="address" name="fields[address]" type="text" placeholder="(e.g.) B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South Kuala Lumpur, Malaysia">
               </div>
 
               <div class="row">
                 <div class="form-group col-sm-6">
                   <label for="venue">Venue</label>
-                  <input class="form-control" id="venue" name="fields[venue]" type="text" placeholder="Suria Labs">
+                  <input class="form-control" id="venue" name="fields[venue]" type="text" placeholder="(e.g.) Suria Labs">
                 </div>
                 <div class="form-group col-sm-6">
                   <label for="map">Map Link</label>
-                  <input class="form-control" id="map" name="fields[map]" type="text" placeholder="https://goo.gl/maps/ik9uWtxxKs52">
+                  <input class="form-control" id="map" name="fields[map]" type="text" placeholder="(e.g.) https://goo.gl/maps/ik9uWtxxKs52">
                 </div>
               </div>
 
