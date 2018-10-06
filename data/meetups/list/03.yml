@@ -4,6 +4,7 @@ map: "https://goo.gl/maps/ik9uWtxxKs52"
 address: "B-12-6, Level 12, Tower B, Vertical Office Suites, Jalan Kerinchi, Bangsar South Kuala Lumpur, Malaysia"
 
 from: 2018-10-03T19:00:00+08:00
+to: 2018-10-03T21:00:00+08:00
 dates: "20181003T190000/20181003T210000"
 link: https://www.facebook.com/events/190938831689130
 tags: ["Rust"]

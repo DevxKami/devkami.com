@@ -4,6 +4,7 @@ address: "Menara Ta One, KLCC 22, Jalan P. Ramlee, Kuala Lumpur"
 venue: "One Auditorium"
 
 from: 2018-10-25T08:00:00+08:00
+to: 2018-10-26T17:00:00+08:00
 dates: "20181025T080000/20181026T170000"
 link: "https://rubyconf.my/"
 tags: ["Ruby"]

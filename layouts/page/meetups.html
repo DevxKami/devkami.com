@@ -7,19 +7,25 @@
           {{ range sort .Site.Data.meetups.list "from" }}
             {{ if ge (time .from) (now.AddDate 0 0 -1) }}
               <li class="event-entry list-group-item d-flex justify-content-between align-items-center"
-                style="margin: 10px; border-radius: 15px">
+                style="margin: 10px; border-radius: 15px"
+                data-id="{{ ._id }}"
+              >
                 {{ if eq (printf "%T" .tags) "[]interface {}" }}
+                  <!-- yml has tags as an actual array type -->
                   {{ range .tags }}
-                  <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ . }}</span>
+                    <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ . }}</span>
                   {{ end }}
                 {{ else }}
+                  <!-- parse comma separated tag string here -->
                   <span class="badge badge-primary" style="font-weight: normal; background: cornflowerblue">{{ .tags }}</span>
                 {{ end}}
                 <p>
                   <h3 class="name card-title">{{ .name }}</h3>
-                  <h4 class="details card-subtitle text-muted"><span class="human-date">{{ .from }}</span>, {{ .venue }}</h4>
+                  <h4 class="details card-subtitle text-muted"><span class="human-date">{{ .from }}</span> to <span class="human-date">{{ .to }}</span></h4>
+                  <h4>{{ .venue }}</h4>
                   <a class="address" href="{{ .map }}" target="_blank">{{ .address }}</a>
                 </p>
+
                 <div class="btn-group" role="group">
                   {{ if .address }}
                     <span><a href="{{ .map }}" target="_blank" class="btn btn-primary">Map</a></span>
@@ -104,17 +110,19 @@
           var content = document.getElementsByClassName("blog-post")[0];
           var links = content.getElementsByTagName("a");
 
+          // set all links to open in a new window
           for (var i = 0, linksLength = links.length; i < linksLength; i++) {
              if (links[i].hostname != window.location.hostname) {
                 links[i].target = '_blank';
              }
           }
 
+          // "humanify" date (might be changed later, depending on the design)
           var humanDates = document.querySelectorAll(".human-date");
           for (var i = 0; i < humanDates.length; i++) {
             var stringDate = humanDates[i].textContent;
-            humanDates[i].textContent = ((new Date(stringDate)).toLocaleDateString('en-GB', {
-              weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+            humanDates[i].textContent = ((new Date(stringDate)).toLocaleTimeString('en-GB', {
+              weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timezone: "Asia/KualaLumpur"
             }));
           }
 
