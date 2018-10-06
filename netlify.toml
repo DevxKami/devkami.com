@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/meetups"
 to = "/page/meetups"
-status = 200
+status = 302
