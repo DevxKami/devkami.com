@@ -25,13 +25,16 @@
                     <a href="{{ .map }}" target="_blank" class="btn btn-primary">Map</a>
                   {{ end }}
 
-                  {{ if .dates }}
-                    <a class="add-to-google-calendar btn btn-primary" href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml'
-                    target="_blank">Add to calendar</a>
-                  {{ else }}
-
-                  {{ end }}
-                  <a class="event-link btn btn-primary" href="{{ .link }}" target="_blank">Event page</a>
+                  <span class="add-to-google-calendar">
+                    {{ if .dates }}
+                      <a class="btn btn-primary"
+                        href='https://www.google.com/calendar/render?action=TEMPLATE&text={{ .name }}&dates={{ .dates }}&details=Event+page+link:+{{ .link }}&location={{ .address }}&sf=true&output=xml'
+                        target="_blank">Add to calendar
+                      </a>
+                    {{ else }}
+                    {{ end }}
+                  </span>
+                <a class="event-link btn btn-primary" href="{{ .link }}" target="_blank">Event page</a>
                 </div>
               </li>
             {{ end }}
