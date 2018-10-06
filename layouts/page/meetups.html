@@ -21,7 +21,9 @@
                 {{ end}}
                 <p>
                   <h3 class="name card-title">{{ .name }}</h3>
-                  <h4 class="details card-subtitle text-muted"><span class="human-date">{{ .from }}</span> to <span class="human-date">{{ .to }}</span></h4>
+                  <h4 class="details card-subtitle text-muted">
+                    <span class="from-to" data-from="{{ .from }}" data-to="{{ .to }}"></span>
+                  </h4>
                   <h4>{{ .venue }}</h4>
                   <a class="address" href="{{ .map }}" target="_blank">{{ .address }}</a>
                 </p>
@@ -118,14 +120,41 @@
           }
 
           // "humanify" date (might be changed later, depending on the design)
-          var humanDates = document.querySelectorAll(".human-date");
-          for (var i = 0; i < humanDates.length; i++) {
-            var stringDate = humanDates[i].textContent;
-            humanDates[i].textContent = ((new Date(stringDate)).toLocaleTimeString('en-GB', {
-              weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timezone: "Asia/KualaLumpur"
-            }));
+          function sameDay(d1, d2) {
+            return d1.getFullYear() === d2.getFullYear() &&
+              d1.getMonth() === d2.getMonth() &&
+              d1.getDate() === d2.getDate();
           }
 
+          var humanDates = document.querySelectorAll(".from-to");
+          for (var i = 0; i < humanDates.length; i++) {
+            var from = new Date(humanDates[i].dataset.from);
+            var to = new Date(humanDates[i].dataset.to);
+            var fullDateOptions = {
+              weekday: 'long',
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+              hour12: true,
+              hour: '2-digit',
+              minute:'2-digit',
+              timezone: "Asia/KualaLumpur"
+            }
+            var stringDate;
+            if (sameDay(from, to)) {
+              stringDate = from.toLocaleTimeString("en-GB", fullDateOptions) + " to " + to.toLocaleTimeString("en-GB", {
+                hour12: true,
+                hour: '2-digit',
+                minute:'2-digit',
+                timezone: "Asia/KualaLumpur"
+              });
+            } else {
+              stringDate = from.toLocaleDateString("en-GB", fullDateOptions) + " to " + to.toLocaleDateString("en-GB", fullDateOptions);
+            }
+            humanDates[i].textContent = stringDate;
+          }
+
+          // generate gcal link
           var gcals = document.querySelectorAll("span.add-to-google-calendar");
           for (var i = 0; i < gcals.length; i++) {
             var gcal = gcals[i];
