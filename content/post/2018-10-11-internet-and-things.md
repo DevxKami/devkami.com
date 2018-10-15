@@ -1,5 +1,5 @@
 ---
-title: "2018 10 11 Internet and Things"
+title: "Episode #7: Internet and Things"
 date: 2018-10-11T19:03:50+08:00
 draft: false
 ---
