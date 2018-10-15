@@ -3,7 +3,7 @@ title: "Episode #6: Podcast Tools"
 date: 2018-10-04T23:25:21+08:00
 ---
 <div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/embed/FhTjs5uMpjA&t" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/FhTjs5uMpjA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ### Show notes
