@@ -2,3 +2,8 @@
 from = "/meetups"
 to = "/page/meetups"
 status = 302
+
+[[redirects]]
+from = "/out/write-great-code-vol-1-understanding-the-machine"
+to = "https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038"
+status = 302
