@@ -17,6 +17,8 @@ draft: false
 * [Kaggle](https://www.kaggle.com/) - People compete with their machine learning model here, but also where we can get dataset
 * [mnist](http://yann.lecun.com/exdb/mnist/) - the handwriten number dataset used for machine vision
 * [Andrew Ng deeplearning course](https://www.deeplearning.ai/)
+* [Google vision aiy](https://aiyprojects.withgoogle.com/vision) - sweemengs toy camera on the show
+* [Mask R-CNN on modelzoo](https://modelzoo.co/model/mask-r-cnn-keras) - include link to use model in custom application
 * Books
   * Introduction to machine learning with python
   * Hands-on machine learning with scikit-learn and tensorflow
