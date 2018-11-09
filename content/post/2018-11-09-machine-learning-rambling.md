@@ -5,7 +5,7 @@ draft: false
 ---
 
 <div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/watch?v=c7cIojYbi2o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/c7cIojYbi2o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ### Show notes
