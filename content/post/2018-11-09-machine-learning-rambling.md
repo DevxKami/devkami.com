@@ -14,6 +14,7 @@ draft: false
 * tensorflow
 * keras
 * [UCI Machine learning repository](http://archive.ics.uci.edu/ml/index.php)
+<!--more-->
 * [Kaggle](https://www.kaggle.com/) - People compete with their machine learning model here, but also where we can get dataset
 * [mnist](http://yann.lecun.com/exdb/mnist/) - the handwriten number dataset used for machine vision
 * [Andrew Ng deeplearning course](https://www.deeplearning.ai/)
@@ -24,5 +25,3 @@ draft: false
   * Hands-on machine learning with scikit-learn and tensorflow
   * Fundamentals of Deep Learning
   * Deep learning with python
-
-
