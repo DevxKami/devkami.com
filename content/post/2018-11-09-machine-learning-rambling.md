@@ -1,5 +1,5 @@
 ---
-title: "DevKami: Machine Learning Rambling"
+title: "Episode #9: Machine Learning Rambling"
 date: 2018-11-09T21:25:00+08:00
 draft: false
 ---
