@@ -40,7 +40,7 @@
         <guid>{{ .Permalink }}</guid>
         <description>{{ .Summary | html }}</description>
         {{ if .Params.youtubeid }}
-          <enclosure url="https://cloudflare-ipfs.com/ipfs/QmPgvrLPsncHMiAE45NLfs6pXJcPLihntd9DUaS6ShLtq1/{{ .Params.youtubeid }}.mp3" type="audio/mpeg" length="1024"></enclosure>
+          <enclosure url="https://cloudflare-ipfs.com/ipns/QmRB6jk4EgQduTig4eVkk3PHQddWiQRmMMh1USb82d6s9w/{{ .Params.youtubeid }}.mp3" type="audio/mpeg" length="1024"></enclosure>
         {{ end }}
       </item>
     {{ end }}
