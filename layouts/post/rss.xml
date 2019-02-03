@@ -10,11 +10,7 @@
     {{ with .Site.Author.email }}
     <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
     {{ with .Site.Author.email }}
-      <webMaster>{{.}}
-        {{ with $.Site.Author.name }}
-          ({{.}})
-        {{end}}
-      </webMaster>
+      <webMaster>{{.}}{{ with $.Site.Author.name }}({{.}}){{end}}</webMaster>
     {{end}}
     {{ with .Site.Copyright }}
       <copyright>{{.}}</copyright>
