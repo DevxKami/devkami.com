@@ -10,4 +10,4 @@ draft: false
 
 ### Show notes
 
-- [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar/languages-and-frameworks) - Design principle to describe interface objects that mimic their real-world counterparts.
+- [Thoughtworks Technology Radar](https://www.thoughtworks.com/radar/languages-and-frameworks) - Insights into the technology and trends shaping the future
