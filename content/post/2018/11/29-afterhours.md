@@ -1,14 +1,8 @@
 ---
-title: "Episode #11: DevKami Afterhours"
+title: "Episode 11: DevKami Afterhours"
 date: 2018-11-29T21:25:00+08:00
-draft: false
+youtubeid: "Thttrrrl0us"
 ---
-
-<div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/embed/Thttrrrl0us" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-### Show notes
 
 * [The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)) - The general goal of the games is to create a series of Rube Goldberg devices: arrange a given collection of objects in a needlessly complex fashion so as to perform some simple task (e.g., "put the ball into a box" or "start a mixer & turn on a fan").
 * [The Incredible Machine: Mega Pack](https://www.gog.com/game/the_incredible_machine_mega_pack) - You gotta buy them all.

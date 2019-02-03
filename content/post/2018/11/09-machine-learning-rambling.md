@@ -1,14 +1,8 @@
 ---
-title: "Episode #9: Machine Learning Rambling"
+title: "Episode 9: Machine Learning Rambling"
 date: 2018-11-09T21:25:00+08:00
-draft: false
+youtubeid: "c7cIojYbi2o"
 ---
-
-<div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/embed/c7cIojYbi2o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-### Show notes
 
 * [scikit-learn](https://scikit-learn.org/stable/index.html) - The most well known python machine learning library
 * tensorflow

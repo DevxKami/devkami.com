@@ -1,12 +1,8 @@
 ---
-title: "Episode #7: Internet and Things"
+title: "Episode 7: Internet and Things"
 date: 2018-10-11T19:03:50+08:00
+youtubeid: "PZ7Vbj1u7yM"
 ---
-<div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/embed/PZ7Vbj1u7yM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-### Show notes
 
 * [DevKami Meetups](https://devkami.com/page/meetups/) - Pickled and Curated with Love by Actual Human Beings
 * [Wordstar](https://en.wikipedia.org/wiki/WordStar) - GRRM's word processor of choice

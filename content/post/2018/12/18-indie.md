@@ -1,14 +1,8 @@
 ---
-title: "Episode #13: Indie"
+title: "Episode 13: Indie"
 date: 2018-12-13T21:25:00+08:00
-draft: false
+youtubeid: "4CFZhPx_GkE"
 ---
-
-<div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/embed/4CFZhPx_GkE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-### Show notes
 
 * [Komuter](http://komuter.app/) -- View KTM train timetable easily
 * [Rapidly](http://rapidkl.app/) -- View MRT / LRT / KTM / Monorail etc route & fare easily

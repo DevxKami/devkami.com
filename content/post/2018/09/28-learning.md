@@ -1,13 +1,8 @@
 ---
-title: "Episode #5: Learning"
-date: 2018-09-28T23:25:21+08:00
+title: "Episode 5: Learning"
+date: 2018-09-28
+youtubeid: "pgLHoiB1tdw"
 ---
-
-<div class="iframe-container">
-<iframe class="video" src="https://www.youtube.com/embed/pgLHoiB1tdw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-### Show notes
 
 * [DevKami Meetups](https://devkami.com/page/meetups/) - Pickled and Curated with Love by Actual Human Beings
 * [PluralSight](https://www.pluralsight.com) - The Technology Learning Platform
