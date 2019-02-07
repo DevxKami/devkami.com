@@ -12,6 +12,5 @@ status = 302
   from = "/mp3/*"
   to = "http://quadhost-sg-1024.parasquid.com:15808/devkami/mp3/:splat"
   status = 200
-  force = true
   [redirects.headers]
     X-From = "Netlify"
