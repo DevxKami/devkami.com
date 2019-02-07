@@ -7,3 +7,11 @@ status = 302
 from = "/out/write-great-code-vol-1-understanding-the-machine"
 to = "https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038"
 status = 302
+
+[[redirects]]
+  from = "/mp3/*"
+  to = "http://quadhost-sg-1024.parasquid.com:15808/devkami/mp3/:splat"
+  status = 200
+  force = true
+  [redirects.headers]
+    X-From = "Netlify"
