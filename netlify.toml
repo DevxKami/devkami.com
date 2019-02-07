@@ -14,3 +14,8 @@ status = 302
   status = 200
   [redirects.headers]
     X-From = "Netlify"
+
+[[redirects]]
+  from = "/podcast.rss"
+  to = "https://devkami.com/post/index.xml"
+  status = 302
