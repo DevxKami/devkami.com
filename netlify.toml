@@ -19,3 +19,9 @@ status = 302
   from = "/podcast.rss"
   to = "https://devkami.com/post/index.xml"
   status = 302
+
+
+[[redirects]]
+  from = "/spotify"
+  to = "https://open.spotify.com/show/4EefCtHDQGcGPxN5sky8aB?si=8wu9w8hgQMa04VvbGJMatw"
+  status = 302
