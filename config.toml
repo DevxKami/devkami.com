@@ -19,7 +19,7 @@ LanguageCode = "en-us"
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Anything and Everything About Developers.<br /> Unedited. Unscripted. Unreal."
-  logo = "img/avatar-icon.png"
+  logo = "images/devkami-logo.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
