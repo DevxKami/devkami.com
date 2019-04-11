@@ -35,6 +35,7 @@
     {{ end }}
     {{ range .Pages }}
       <item>
+        <itunes:explicit>{{ if .Params.explicit }}{{ .Params.explicit }}{{ else }}no{{ end }}</itunes:explicit>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
         <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
