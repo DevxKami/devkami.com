@@ -1,0 +1,36 @@
+[[redirects]]
+from = "/meetups"
+to = "/page/meetups"
+status = 302
+
+[[redirects]]
+from = "/out/write-great-code-vol-1-understanding-the-machine"
+to = "https://www.amazon.com/Write-Great-Code-Understanding-Machine/dp/1593270038"
+status = 302
+
+[[redirects]]
+  from = "/mp3/*"
+  to = "http://quadhost-sg-1024.parasquid.com:15808/devkami/mp3/:splat"
+  status = 200
+  [redirects.headers]
+    X-From = "Netlify"
+
+[[redirects]]
+  from = "/podcast.rss"
+  to = "https://devkami.com/post/index.xml"
+  status = 302
+
+
+[[redirects]]
+  from = "/spotify"
+  to = "https://open.spotify.com/show/4EefCtHDQGcGPxN5sky8aB?si=8wu9w8hgQMa04VvbGJMatw"
+  status = 302
+
+[[redirects]]
+  from = "/aff/m5stack"
+  to = "http://s.click.aliexpress.com/e/cr9s9IUJ"
+
+
+[[redirects]]
+  from = "/aff/m5stickc"
+  to = "http://s.click.aliexpress.com/e/Kn9Jb6n"

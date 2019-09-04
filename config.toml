@@ -7,24 +7,33 @@ pygmentsStyle = "trac"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+LanguageCode = "en-us"
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[permalinks]
+  post = "/:year/:month/:day/:title/"
+
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle = "Anything and Everything About Developers.<br /> Unedited. Unscripted. Unreal."
-  logo = "img/avatar-icon.png"
+  logo = "images/devkami-logo.png"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
   comments = true
-  readingTime = true
+  readingTime = false
   useHLJS = true
   socialShare = false
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+  # Add staticman API URL to enable staticman comments
+  staticman_api = "https://staticman-devkami-com.herokuapp.com/v2/entry/DevxKami/devkami.com/master/meetups"
+
+
 
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
@@ -41,7 +50,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "DevKami"
   website = "devkami.com"
-  # email = "youremail@domain.com"
+  email = "podcast@devkami.com"
   facebook = "devxkami"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "devxkami"

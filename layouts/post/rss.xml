@@ -1,0 +1,51 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <link>https://devkami.com</link>
+    <description>Listen to the Podcast {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <image>
+      <url>https://devkami.com/images/devkami-logo.jpg</url>
+      <title>DevKami</title>
+      <link>https://devkami.com</link>
+    </image>
+    <itunes:image href="https://devkami.com/images/devkami-logo.jpg" />
+    <itunes:summary>Listen to the Podcast {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</itunes:summary>
+    <generator>Hugo -- gohugo.io</generator>
+    {{ with .Site.LanguageCode }}
+      <language>{{.}}</language>{{end}}
+    {{ with .Site.Author.email }}
+    <managingEditor>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</managingEditor>{{end}}
+    {{ with .Site.Author.email }}
+      <webMaster>{{.}}{{ with $.Site.Author.name }}({{.}}){{end}}</webMaster>
+    {{end}}
+    {{ with .Site.Copyright }}
+      <copyright>{{.}}</copyright>
+    {{end}}
+    {{ if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    <itunes:author>DevKami</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>{{ with $.Site.Author.name }}{{ . }}{{ end }}</itunes:name>
+      <itunes:email>{{ with .Site.Author.email }}{{ . }}{{ end }}</itunes:email>
+    </itunes:owner>
+    {{ with .OutputFormats.Get "RSS" }}
+        {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{ end }}
+    {{ range .Pages }}
+      <item>
+        <itunes:explicit>{{ if .Params.explicit }}{{ .Params.explicit }}{{ else }}no{{ end }}</itunes:explicit>
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+        {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
+        <guid>{{ .Permalink }}</guid>
+        <description>{{ .Summary | html }}</description>
+        {{ if .Params.youtubeid }}
+          <enclosure url="https://devkami.com/mp3/{{ .Params.youtubeid }}.mp3" type="audio/mpeg" length="1024"></enclosure>
+        {{ end }}
+      </item>
+    {{ end }}
+  </channel>
+</rss>

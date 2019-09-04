@@ -1,3 +1,5 @@
+{{ "<!-- partials/header.html begin -->" | safeHTML }}
+
 {{ if .IsHome }}
   {{ if .Site.Params.homeTitle }}{{ $.Scratch.Set "title" .Site.Params.homeTitle }}{{ else }}{{ $.Scratch.Set "title" .Site.Title }}{{ end }}
   {{ if .Site.Params.subtitle }}{{ $.Scratch.Set "subtitle" .Site.Params.subtitle }}{{ end }}
@@ -68,3 +70,5 @@
 {{ else }}
   <div class="intro-header"></div>
 {{ end }}
+
+{{ "<!-- partials/header.html end -->" | safeHTML }}

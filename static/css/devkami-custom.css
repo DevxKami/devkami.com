@@ -3,6 +3,7 @@
   width: 100%;
   height: 0;
   padding-bottom: 56.25%;
+  margin-bottom: 2em;
 }
 
 iframe.video {
@@ -15,4 +16,12 @@ iframe.video {
 
 .post-preview .post-entry a {
   text-decoration: underline;
+}
+
+.navbar-custom .avatar-container .avatar-img {
+  border-radius: 0;
+}
+
+.navbar-custom .avatar-container .avatar-img-border {
+  border-radius: 0;
 }

@@ -1,3 +1,5 @@
+# this is the old format, please don't use anymore
+
 template:
 - name: ""
   map: ""
@@ -38,32 +40,6 @@ tbc: &tbc
   venue: "Venue to be confirmed"
 
 list:
-- name: "RubyConf MY 2018"
-  map: "https://goo.gl/maps/eMeuapNw36L2"
-  address: "Menara Ta One, KLCC 22, Jalan P. Ramlee, Kuala Lumpur"
-  venue: "One Auditorium"
-  display_date: Thu 25 - 26 October 2018, 8:00am - 5:00pm
-  date: 2018-10-25T08:00:00+08:00
-  dates: "20181025T080000/20181026T170000"
-  link: "https://rubyconf.my/"
-  group: "Ruby"
-
-- name: "LawTech Hackathon: Calling Law Geeks and Techies to join!"
-  map: "https://goo.gl/maps/XVrKtENAS1k"
-  address: "Jalan Peel, Maluri Kuala Lumpur, Malaysia"
-  venue: "Sunway Velocity TWO Sales Gallery"
-  display_date: Sat 20 October 2018, 08:00am
-  date: 2018-10-20T08:00:00+08:00
-  dates: "20181020T080000/20181021T190000"
-  link: "https://www.facebook.com/events/243902416463006/"
-
-- name: "Rust Lang: Project X"
-  <<: *suria_labs
-  display_date: Wed 3 October 2018, 7:00pm - 9:00pm
-  date: 2018-10-03T19:00:00+08:00
-  dates: "20181003T190000/20181003T210000"
-  link: https://www.facebook.com/events/190938831689130
-  group: "Rust"
 
 - name: "Golang: September"
   <<: *suria_labs
@@ -75,7 +51,7 @@ list:
 
 - name: "Civic Tech: What is it and how do you contribute?"
   <<: *mindvalley
-  display_date: Wed 26 September 2018, 7:00pm - 9:00pm
+  display_date: Sat 26 September 2018, 11:00am
   date: 2018-09-26T19:00:00+08:00
   dates: "20180926T190000/20181003T210000"
   link: "https://www.facebook.com/events/718511428502124"

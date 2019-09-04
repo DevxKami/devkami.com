@@ -18,9 +18,7 @@
           {{ if .Site.Params.rss }}
           <li>
             {{ if .RSSLink }}
-            <a href="{{ .RSSLink }}" title="RSS">
-            {{ else }}
-            <a href="{{ .Site.RSSLink }}" title="RSS">
+            <a href="/post/index.xml" title="RSS">
             {{ end }}
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
