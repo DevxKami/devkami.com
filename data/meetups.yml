@@ -43,7 +43,7 @@ list:
 
 - name: "Golang: September"
   <<: *suria_labs
-  display_date: Tue 25 September 2018, 7:00pm - 9:00pm
+  display_date: Tue 25 September 2018, 7:30pm - 9:30pm
   date: 2018-09-25T19:30:00+08:00
   dates: "20180925T193000/20181003T213000"
   link: "https://www.facebook.com/events/1953544534668666"
