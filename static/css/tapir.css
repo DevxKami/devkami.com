@@ -1,6 +1,8 @@
 .tapir {
-    transform: scale(0.5);
+    margin-top: -70px;
     margin-left: -108px;
+    z-index: 1;
+    transform: scale(0.5);
     position: absolute;
     padding: 26px 172px 216px 73px;
     background: linear-gradient(to bottom right, #fbfb3c, #3effff);
