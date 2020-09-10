@@ -7,7 +7,6 @@
     padding: 26px 172px 216px 73px;
     background: linear-gradient(to bottom right, #fbfb3c, #3effff);
     border-radius: 50%;
-    z-index: -1;
     cursor: pointer;
     transition: box-shadow 0.2s ease-in;
 }
@@ -147,6 +146,7 @@
 }
 .foot.right {
     margin: 136px 104px;
+    animation-delay: 1s;
 }
 
 .laptop {
