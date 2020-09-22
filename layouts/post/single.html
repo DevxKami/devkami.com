@@ -12,6 +12,25 @@
           </div>
 
           <h3 id="show-notes">Show notes</h3>
+          {{ if .Params.notes }}
+          <dl>
+          {{ range (index $.Site.Data.notes .Params.notes).links }}
+            <dt>{{ .title }}</dt>
+            <dd>{{ .description }}</dd>
+            <dd><a href="{{ .url }}">link</a></dd>
+          {{ end }}
+          </dl>
+          {{ end }}
+        {{ end }}
+        {{ if .Params.buzzcorner }}
+        <h3 id="buzzcorner">Buzzcorner</h3>
+        <dl>
+        {{ range (index $.Site.Data.buzzcorner .Params.buzzcorner).links }}
+          <dt>{{ .title }}</dt>
+          <dd>{{ .description }}</dd>
+          <dd><a href="{{ .url }}">link</a></dd>
+        {{ end }}
+        </dl>
         {{ end }}
 
         {{ .Content }}
