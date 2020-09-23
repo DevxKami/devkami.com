@@ -83,9 +83,14 @@ LanguageCode = "en-us"
     weight = 2
 
 [[menu.main]]
+    name = "Community"
+    url = "community/"
+    weight = 3
+
+[[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 3
+    weight = 4
 
 # [[menu.main]]
 #     identifier = "samples"
