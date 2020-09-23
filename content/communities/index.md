@@ -1,5 +1,5 @@
 ---
-title: "Tech Community We Like!!"
+title: "Tech Communities We Like!!"
 date: 2020-09-23
 ---
 

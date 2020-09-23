@@ -83,8 +83,8 @@ LanguageCode = "en-us"
     weight = 2
 
 [[menu.main]]
-    name = "Community"
-    url = "community/"
+    name = "Communities"
+    url = "communities/"
     weight = 3
 
 [[menu.main]]
