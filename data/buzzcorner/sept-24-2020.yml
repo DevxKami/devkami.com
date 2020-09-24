@@ -1,0 +1,25 @@
+links:
+  - title: Flutter on windows
+    url: https://medium.com/flutter/announcing-flutter-windows-alpha-33982cd0f433
+    description: This is the alpha release for flutter on windows announcement
+  - title: Firefox on android security vulnerability
+    url: https://www.lowyat.net/2020/222034/security-researcher-discovers-android-app-exploit-that-requires-zero-user-interaction/
+    description: A new vulnerability discovered on version before 79. 
+  - title: Google launch table
+    url: https://www.slashgear.com/area-120-tables-is-googles-take-on-the-database-renaissance-22639217/
+    description: Google alternative to airtable
+  - title: New JSX transform in react
+    url: https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html
+    description: New JSX transform in react 17
+  - title: Shape Up
+    url: https://basecamp.com/shapeup
+    description: Basecamp release a new book for product development
+  - title: Swift for windows
+    url: https://swift.org/blog/swift-on-windows/
+    description: Swift for windows is released
+  - title: Continuous delivery on Grab
+    url: https://engineering.grab.com/our-journey-to-continuous-delivery-at-grab
+    description: Grab shares their way to do continuous deliver
+  - title: Microsoft contribute to Java for Apple Silicon
+    url: https://appleinsider.com/articles/20/09/22/microsoft-contributes-to-java-port-for-apple-silicon-macs
+    description: As in description
