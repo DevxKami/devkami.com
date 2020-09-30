@@ -15,9 +15,10 @@
           {{ if .Params.notes }}
           <dl>
           {{ range (index $.Site.Data.notes .Params.notes).links }}
-            <dt>{{ .title }}</dt>
-            <dd>{{ .description }}</dd>
-            <dd><a href="{{ .url }}">link</a></dd>
+            <div>
+              <dt>{{ .title }}</dt>
+              <dd>{{ .description }} <a href="{{ .url }}">link</a></dd>
+            </div>
           {{ end }}
           </dl>
           {{ end }}
@@ -26,9 +27,10 @@
         <h3 id="buzzcorner">Buzzcorner</h3>
         <dl>
         {{ range (index $.Site.Data.buzzcorner .Params.buzzcorner).links }}
-          <dt>{{ .title }}</dt>
-          <dd>{{ .description }}</dd>
-          <dd><a href="{{ .url }}">link</a></dd>
+          <div>
+            <dt>{{ .title }}</dt>
+            <dd>{{ .description }} <a href="{{ .url }}">link</a></dd>
+          </div>
         {{ end }}
         </dl>
         {{ end }}
@@ -52,6 +54,12 @@
             </section>
         {{ end }}
       </article>
+
+      {{ if eq .Type "blogs" }}
+      <p class="post-meta">
+        {{ partial "post_meta.html" . }}
+      </p>
+      {{ end }}
 
       {{ if ne .Type "page" }}
         <ul class="pager blog-pager">

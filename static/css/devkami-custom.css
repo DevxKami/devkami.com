@@ -17,3 +17,19 @@ iframe.video {
 .post-preview .post-entry a {
   text-decoration: underline;
 }
+
+dl {
+  margin-left: 1em;
+}
+
+dd {
+  margin-left: 2em;
+}
+
+dl > div {
+  margin-bottom: 1em;
+}
+
+h3 {
+  margin-bottom: 1em;
+}
