@@ -3,6 +3,7 @@ title: "DIY Presentation Clicker using BLE and Espruino Mk-1"
 date: 2020-09-29
 tags: ["hack", "play", "espruino", "bluetooth low energy", "nrf52832", "diy", "diy clicker"]
 image: https://res.cloudinary.com/psqd/image/upload/v1595410448/IMG_20200718_194028.jpg.jpg
+author: parasquid
 ---
 I had a spare [nrf52832 UART module](https://psqd.pw/ebyte-uart) lying around and since the lockdown happened, I've been itching to do something with it. So why not a presentation clicker to prepare for when I get to do in-person meetups again?
 
@@ -136,6 +137,7 @@ Some things I'd want to improve for the next version:
 -----
 
 Affiliate links:
+
 * https://psqd.pw/ebyte-uart
 
 -----

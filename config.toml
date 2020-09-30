@@ -74,23 +74,28 @@ LanguageCode = "en-us"
 
 [[menu.main]]
     name = "Podcast"
-    url = ""
+    url = "post"
     weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "blogs"
+    weight = 2
 
 [[menu.main]]
     name = "Meetups"
     url = "page/meetups/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     name = "Communities"
     url = "communities/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 4
+    weight = 5
 
 # [[menu.main]]
 #     identifier = "samples"
