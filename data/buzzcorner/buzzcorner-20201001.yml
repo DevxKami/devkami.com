@@ -1,0 +1,22 @@
+links:
+  - title: Gitter Join Matrix
+    url: https://matrix.org/blog/2020/09/30/welcoming-gitter-to-matrix
+    description: Gitter join matrix
+  - title: Azure AD down
+    url: https://build5nines.com/azure-ad-is-down-blocking-access-to-azure-teams-and-more-september-28-2020-microsoft-azure-outage/
+    description: Azure AD down blocking access to azure. 
+  - title: Shopback databreach investigated
+    url: https://www.soyacincau.com/2020/09/30/shopback-malaysias-data-breach-investigated-by-jpdp/
+    description: ShopBack Malaysia’s data breach is being investigated by JPDP
+  - title: VMWare intend to buy saltstack
+    url: https://www.vmware.com/company/news/updates/2020/intent-to-acquire-saltstack.html
+    description: As title
+  - title: Amazon Luna
+    url: https://www.amazon.com/luna/landing-page
+    description: Amazon cloud gaming
+  - title: Postgresql 13 is out
+    url: https://www.postgresql.org/about/news/postgresql-13-released-2077/
+    description: As title
+  - title: WSL GUI
+    url: https://devblogs.microsoft.com/commandline/whats-new-in-the-windows-subsystem-for-linux-september-2020/
+    description: WSL now can open linux GUI Application
