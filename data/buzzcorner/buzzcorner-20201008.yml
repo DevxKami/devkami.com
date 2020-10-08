@@ -1,0 +1,13 @@
+links:
+  - title: Python 3.9 is out
+    url: https://docs.python.org/release/3.9.0/whatsnew/3.9.html
+    description: A new python version is out. Python 3.5 is not supported anymore. 
+  - title: OpenJDK Is on github now
+    url: https://github.blog/2020-09-30-github-welcomes-the-openjdk-project/
+    description: As topic
+  - title: Cloud flare have API security tools
+    url: https://www.zdnet.com/google-amp/article/with-api-attacks-rising-cloudflare-launches-a-free-api-security-tool/
+    description: As topic
+  - title: Jom Launch is coming soon
+    url: https://app.jomlaunch.asia/go/devkami
+    description: Note this is not sponsored, but we like to support local events. 
