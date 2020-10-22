@@ -1,0 +1,25 @@
+links:
+  - title: Cloudflare browser Isolation
+    url: https://blog.cloudflare.com/browser-beta/
+    description: Cloudflare released a way to improve browsing experience by doing it on server first
+  - title: Twitter removed hacked material policy
+    url: https://www.marketwatch.com/amp/story/twitter-changes-its-hacking-policy-after-uproar-over-blocking-new-york-post-article-11602816935
+    description: This is in respond of a policy that remove a post that have hack material for news article that uses this.
+  - title: Apple iOS miniapp
+    url: https://edition.cnn.com/2020/10/13/tech/apple-tencent-mini-programs-intl-hnk/index.html
+    description: As titled
+  - title: Hashicorp boundary
+    url: https://www.hashicorp.com/blog/hashicorp-boundary
+    description: Hashicorp introduce a new tools to secure access to infrastructure
+  - title: Hashicorp waypoint
+    url: https://www.hashicorp.com/blog/announcing-waypoint
+    description: Hashicorp introduce a new tools to deploy applications
+  - title: Google cloud service postmortem
+    url: https://static.googleusercontent.com/media/www.google.com/en//appsstatus/ir/ti76kvgai1yqajx.pdf
+    description: As titled
+  - title: JS Open Source Award
+    url: https://www.infoq.com/news/2020/10/js-open-source-award-2020/
+    description: As titled, click link to project
+  - title: Google Antitrust
+    url: https://www.theguardian.com/technology/2020/oct/21/google-antitrust-charges-what-is-next
+    description: Google currently being sued for antitrust.
