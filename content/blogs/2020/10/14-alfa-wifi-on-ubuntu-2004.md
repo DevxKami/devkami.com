@@ -6,6 +6,7 @@ author: sweemeng
 ---
 So recently I bought a new USB WiFi device. It is the the the Alfa AWUS036ACH. There's a reason why I this, this device is using the rtl8812au which have linux drivers. 
 
+![Alfa Wifi](https://res.cloudinary.com/dty81dwqf/image/upload/v1603976430/121679029_10158959536054319_2994756001624892964_o_hjz9zz.jpg)
 
 But as it turns out, the rtl8812au driver on Ubuntu repo at least for 20.04 LTS don't actually work. Here's how I get this to work. 
 
