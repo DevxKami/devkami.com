@@ -1,0 +1,34 @@
+links:
+  - title: NGINX introduce service mesh
+    url: https://www.nginx.com/blog/introducing-nginx-service-mesh/
+    description: NGINX now introduce a way to use NGINX Plus as a service mesh for microservice
+  - title: Crowdsec
+    url: https://opensource.com/article/20/10/crowdsec
+    description: This is a way to use crowdsourcing to create better IP List similar to fail2ban
+  - title: Rust GPU
+    url: https://github.com/EmbarkStudios/rust-gpu
+    description: This is so that you can use rust for GPU. 
+  - title: nRF52840 programmable smart watch
+    url: https://hackaday.io/project/175577-hackable-nrf52840-smart-watch
+    description: This is a smartwatch platform where you can hack with JS
+  - title: Cloudflare support for gRPC
+    url: https://blog.cloudflare.com/road-to-grpc/
+    description: this is the technical detail on how
+  - title: Azure DevOps roadmap Q4 2020
+    url: https://devblogs.microsoft.com/devops/azure-devops-roadmap-update-for-2020-q4/
+    description: This is a update to the roadmap
+  - title: Responce to DMCA Takedown on youtube-dl
+    url: https://torrentfreak.com/riaas-youtube-dl-takedown-ticks-of-developers-and-githubs-ceo-201027/
+    description: This is a responce of the take down
+  - title: AWS Distro for OpenTelemetry in public preview
+    url: https://aws.amazon.com/blogs/opensource/aws-distro-for-opentelemetry-now-available-for-public-preview/
+    description: This is the AWS distribution to OpenTelemetry
+  - title: GPT-3 in medical chatbot fail
+    url: https://www.theregister.com/2020/10/28/gpt3_medical_chatbot_experiment/
+    description: The bot tell a patient to kill themselves
+  - title: Security Commission IEO Guideline is out
+    url: https://fintechnews.my/25352/blockchain/securities-commission-malaysias-ieo-guidelines-comes-into-force-today/
+    description: This is to regulate Initial Exchange Offering
+  - title: PerceptiLabs
+    url: https://github.com/PerceptiLabs/PerceptiLabs
+    description: A visual way to build neural network
