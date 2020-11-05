@@ -1,0 +1,31 @@
+links:
+  - title: Visual studio stories plugin
+    url: https://marketplace.visualstudio.com/items?itemName=benawad.stories
+    description: This is a plugin to implement social media story features in VS Code
+  - title: Setup gitlab to cache docker image
+    url: https://about.gitlab.com/blog/2020/10/30/mitigating-the-impact-of-docker-hub-pull-requests-limits/
+    description: gitlab shows how to cache docker image to reduce pulling from docker hub
+  - title: KDE Migration site to hugo
+    url: https://carlschwan.eu/2020/10/30/kde-org-hugo.html
+    description: KDE the desktop manager now uses hugo for their project site
+  - title: AWS Application Load balancer support gRPC
+    url: https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/
+    description: as title
+  - title: SiFive prepares for Linux PC with RISC-V 
+    url: https://venturebeat.com/2020/10/29/sifive-unveils-plan-for-linux-pcs-based-on-risc-v-processors/
+    description: This is to actually avoid potential royalty issue to ARM, as RISC-V is more open
+  - title: Mozilla VPN is now out for windows
+    url: https://www.mozilla.org/en-GB/firefox/82.0/whatsnew/all/?oldversion=81.0.2
+    description: This is part of firefox update
+  - title: Microsoft Clarity is out
+    url: https://blogs.bing.com/webmaster/october-2020/Microsoft-Clarity-is-now-Generally-Available
+    description: This is an alternative to google analytics
+  - title: Raspberry Pi 400 is out
+    url: https://www.raspberrypi.org/blog/raspberry-pi-400-the-70-desktop-pc/
+    description: This is a whole computer inside a keyboard, similar to the look of Commodore 64 and ZX Spectrum. 
+  - title: AWS Prepares for own docker repository
+    url: https://www.zdnet.com/article/aws-preps-its-own-library-of-public-docker-container-images/
+    description: AWS is making another docker repository
+  - title: Fedora is deprecating SCP and retiring NTP
+    url: https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Down-With-NTP-SCP
+    description: The replacement is NTPSEC for NTP and a patch of scp tools to use SFTP
