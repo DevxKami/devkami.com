@@ -1,37 +1,16 @@
 links:
-  - title: Winapp to run windows app on linux
-    url: https://github.com/Fmstrat/winapps
-    description: This works by building a RDP session to VM with files accessed through a samba share
   - title: Pluto another notebook, this time for julia
     url: https://lwn.net/Articles/835930/
     description: This article shows the current issue with notebook and how pluto aim to solve it
-  - title: Github page file because of SSL
-    url: https://www.techradar.com/news/github-home-page-down-after-apparent-ssl-fail
-    description: As title
   - title: Facebook show how they do live streaming for million of user
     url: https://engineering.fb.com/2020/10/22/video-engineering/live-streaming/
     description: as title
   - title: Correlation in latency analysis
     url: https://rakyll.medium.com/correlation-in-latency-analysis-419357b93287
     description: This is why you need instrumentation
-  - title: Yahoo disable email forwarding for free user
-    url: https://www.zdnet.com/article/yahoo-mail-discontinues-automatic-email-forwarding-for-free-users/
-    description: As title
-  - title: misconfigured code lead to information leak
-    url: https://threatpost.com/millions-hotel-guests-worldwide-data-leak/161044/
-    description: the leak contain personal information and credit card
-  - title: Rogue NPM package steal information from discord
-    url: https://www.zdnet.com/article/npm-package-caught-stealing-sensitive-discord-and-browser-files/
-    description: As usual
   - title: .Net 5.0 is out
     url: https://devblogs.microsoft.com/dotnet/announcing-net-5-0/
     description: as title
-  - title: Microsoft have a new linux variant aim for hosting
-    url: https://www.infoworld.com/article/3596347/microsoft-adds-a-new-linux-cbl-mariner.html
-    description: This is mostly for azure. 
-  - title: Google photo will end their free storage
-    url: https://www.gadgetsnow.com/amp/slideshows/google-photos-is-ending-its-free-unlimited-storage-all-you-need-to-know/photolist/79183173.cms
-    description: You got 6 months
   - title: Singapore give visa to tech professionals
     url: https://www.straitstimes.com/singapore/new-work-pass-in-singapore-for-top-tier-foreign-tech-professionals-to-launch-in-january
     description: The requirement is in the link. 
