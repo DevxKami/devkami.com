@@ -8,3 +8,12 @@ links:
   - title: Start-up
     url: https://www.netflix.com/title/81290293
     description: This is a kdrama on startup scene in korea. the tech is pretty correct
+  - title: Cult of the Dead Cow book
+    url: https://www.goodreads.com/book/show/42283862-cult-of-the-dead-cow
+    description: this book describe hacker group of the 80's and 90's
+  - title: Streamlit
+    url: https://www.streamlit.io/
+    description: This is the tool to share result and make apps
+  - title: Bokeh
+    url: https://bokeh.org/
+    description: This is a set of visualization widget that you can build on python and use in your apps
