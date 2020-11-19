@@ -1,0 +1,16 @@
+links:
+  - title: Node.js security release
+    url: https://nodejs.org/en/blog/vulnerability/november-2020-security-releases/
+    description: this is to fix a DoS attack through dns
+  - title: Youtube-dl is back
+    url: https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/
+    description: as title
+  - title: Mudge is now twitter security chief
+    url: https://mobile.reuters.com/article/amp/idUSKBN27W2MB?__twitter_impression=true
+    description: He is also one of the lead of Cult of The Dead Cows
+  - title: Servo is now hosted on linux foundation
+    url: https://blog.servo.org/2020/11/17/servo-home/
+    description: More process change is in the blog
+  - title: tailwind css v2 is out
+    url: https://blog.tailwindcss.com/tailwindcss-v2
+    description: as title
