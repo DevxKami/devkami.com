@@ -11,4 +11,6 @@ links:
   - title: TSMC and google push for 3D stacking
     url: https://asia.nikkei.com/Business/Technology/TSMC-and-Google-push-chipmaking-boundaries-with-3D-stacking
     description: This is a new way to push more performance on chip
-
+  - title: Raspberry Pi now conform with Vulkan 1.0
+    url: https://www.cnx-software.com/2020/11/25/raspberry-pi-4-v3dv-graphics-driver-achieves-vulkan-1-0-conformance/
+    description: One more step to be productive on the pi
