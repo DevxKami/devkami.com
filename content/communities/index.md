@@ -9,3 +9,4 @@ title: "Tech Communities We Like!!"
 * Junior Dev KL: https://www.meetup.com/Junior-Developers-Malaysia
 * Women Who Code KL: https://www.facebook.com/womenwhocodekl/
 * PyData KL: https://www.meetup.com/PyDataKL/
+* Golang Malaysia telegram: https://t.me/golangmalaysia
