@@ -1,0 +1,7 @@
+links:
+  - title: Typescript 4.1 is out
+    url: https://devblogs.microsoft.com/typescript/announcing-typescript-4-1/
+    description: Various speed and improvement are introduced
+  - title: Ethr 0.9 is released
+    url: https://github.com/microsoft/ethr/releases/tag/v0.9.0
+    description: This is a network performance tols written in go by microsoft
