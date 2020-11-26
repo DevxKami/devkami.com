@@ -1,0 +1,10 @@
+links:
+  - title: Darknet a software to run deeplearning
+    url: https://github.com/AlexeyAB/darknet
+    description: Darknet is a software to run object recognition code with deep learning. You don't to code for recognition, and can train with new data.
+  - title: Factorio
+    url: https://www.factorio.com/
+    description: This is a game where you plan process to build things. It is favorite game of engineers.my
+  - title: Advent of Code 2020
+    url: https://adventofcode.com/2020
+    description: This is a coding challenge that happen every year. Mostly a bragging right thing. It is fun. engineers.my favorite competition.
