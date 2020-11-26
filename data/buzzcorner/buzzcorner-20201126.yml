@@ -5,3 +5,10 @@ links:
   - title: Ethr 0.9 is released
     url: https://github.com/microsoft/ethr/releases/tag/v0.9.0
     description: This is a network performance tols written in go by microsoft
+  - title: AWS Outage takes down internet
+    url: https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet
+    description: AWS is down took down many internet services
+  - title: TSMC and google push for 3D stacking
+    url: https://asia.nikkei.com/Business/Technology/TSMC-and-Google-push-chipmaking-boundaries-with-3D-stacking
+    description: This is a new way to push more performance on chip
+
