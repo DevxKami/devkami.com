@@ -1,0 +1,7 @@
+links:
+  - title: Google Open Image Dataset
+    url: https://storage.googleapis.com/openimages/web/index.html
+    description: Where to get image
+  - title: Sweemeng's training notebook
+    url: https://colab.research.google.com/drive/1eez5CFxlvYb4zRrjw51aDYlfGlllMpPQ#scrollTo=3g_vE19xQaVn
+    description: an example of deep learning notebook
