@@ -1,0 +1,16 @@
+links:
+  - title: Amazon introduce Strong Consistency S3
+    url: https://aws.amazon.com/s3/consistency/
+    description: New feature, pretty interesting
+  - title: Amazon now have instance to build iOS apps
+    url: https://aws.amazon.com/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/
+    description: As title
+  - title: Lambda now charge by 1ms from 100ms
+    url: https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-changes-duration-billing-granularity-from-100ms-to-1ms/
+    description: Optimize your code more
+  - title: Docker malware
+    url: https://www.zdnet.com/article/docker-malware-is-now-common-so-devs-need-to-take-docker-security-seriously/
+    description: As title
+  - title: PHP 8.0 is out
+    url: https://www.php.net/releases/8.0/en.php
+    description: Feature galore.
