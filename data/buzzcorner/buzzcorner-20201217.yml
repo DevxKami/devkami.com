@@ -1,0 +1,25 @@
+links:
+  - title: KL Startup Summit
+    url: https://www.klstartupsummit.com/
+    description: This is one of the big startup event. Previously it is in cyberjaya, now it is in KL. It will be attended by grassroot founders, tech people etc.  
+  - title: Google Down
+    url: https://www.bbc.com/news/technology-55299779
+    description: An authentication service outage take down some google services
+  - title: Malware attack on major browser
+    url: https://arstechnica.com/information-technology/2020/12/ongoing-malware-attacks-are-hitting-users-of-4-major-browsers/
+    description: As title
+  - title: Privacy First Analytics from Cloudflare
+    url: https://blog.cloudflare.com/privacy-first-web-analytics/
+    description: A new analytics service from cloudflare
+  - title: Google release a security tools for python
+    url: https://www.zdnet.com/article/google-open-sources-atheris-a-tool-for-finding-security-bugs-in-python-code/
+    description: The tool is called Atheris, it is a fuzzing tool
+  - title: AMD come out with M1 competitor
+    url: https://www.notebookcheck.net/AMD-rumored-to-have-a-prototype-Apple-M1-competitor-in-the-works.507238.0.html
+    description: Not much detail, but more competitor is a good thing. 
+  - title: Docker for Apple M1
+    url: https://www.docker.com/blog/download-and-try-the-tech-preview-of-docker-desktop-for-m1/
+    description: Now this is working, try if you want to
+  - title: Blob Opera
+    url: https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw?cp=e30.
+    description: This is an experiment from google with machine learning!

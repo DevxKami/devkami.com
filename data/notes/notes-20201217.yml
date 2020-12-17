@@ -1,0 +1,13 @@
+links:
+  - title: Advent of Code
+    url: https://adventofcode.com/
+    description: We talk about this before. 
+  - title: The reddit post of advent of code
+    url: https://www.reddit.com/r/adventofcode/
+    description: As title
+  - title: Maixduino
+    url: https://makezine.com/product-review/boards/sipeed-maixduino/
+    description: THis is a development board RISV-V with hardware for neural network
+  - title: TFLite for flutter
+    url: https://pub.dev/packages/tflite#Tiny-YOLOv2
+    description: As title
