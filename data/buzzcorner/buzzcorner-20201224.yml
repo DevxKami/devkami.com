@@ -1,0 +1,13 @@
+links:
+  - title: WSL GPU Support
+    url: https://www.docker.com/blog/wsl-2-gpu-support-is-here/
+    description: This is useful as some are not comfortable with linux on their machine, or have existing IT policy that is windows only
+  - title: Google explain the downtime
+    url: https://9to5google.com/2020/12/18/google-outage-explanation/
+    description: as title
+  - title: Google kills Android things
+    url: https://arstechnica.com/gadgets/2020/12/google-kills-android-things-its-iot-os-in-january/
+    description: As title
+  - title: Food Panda Explain their process
+    url: https://e27.co/foodpanda-cto-why-autonomy-is-important-for-developing-agile-tech-teams-20201218/
+    description: as title
