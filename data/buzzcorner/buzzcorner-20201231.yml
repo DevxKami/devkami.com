@@ -1,0 +1,28 @@
+links:
+  - title: Undocumented User Account in Zyxel Product
+    url: https://www.eyecontrol.nl/blog/undocumented-user-account-in-zyxel-products.html
+    description: These guys made routers and stuff
+  - title: 2021 Developer and powerusers tools for windows
+    url: https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows
+    description: This is a set of tools that is useful for windows users
+  - title: AWS release grafana service
+    url: https://www.zdnet.com/article/with-new-managed-grafana-service-aws-ups-its-open-source-game/
+    description: As title
+  - title: AI Girlfriend seducing lonely men
+    url: https://www.sixthtone.com/news/1006531/The%20AI%20Girlfriend%20Seducing%20China%E2%80%99s%20Lonely%20Men/
+    description: As topic
+  - title: Linux 5.10 introduce static call
+    url: https://thenewstack.io/linux-kernel-5-10-introduces-static-calls-to-prevent-speculative-execution-attacks/
+    descriptions: This is to prevent speculative execution attack
+  - title: Google change map after people keep getting lost
+    url: https://tekdeeps.com/google-maps-changes-a-route-after-the-drama-of-young-people-lost-on-a-ghost-road/
+    description: As title
+  - title: Delivery service need people
+    url: https://slate.com/technology/2020/12/gojek-grab-indonesia-delivery-platforms-algorithms.html
+    description: as title
+  - title: ConnectMe satelite internet deployed in school
+    url: https://www.soyacincau.com/2020/12/30/measat-connectme-now-1000-sites-satellite-broadband/
+    description: As title
+  - title: Toward Fully Automated Manga Translation
+    url: https://arxiv.org/abs/2012.14271
+    description: Interesting because fan translation is a natural use for NLP
