@@ -5,6 +5,7 @@ tags: ["book review", "design", "hack"]
 image: https://res.cloudinary.com/dty81dwqf/image/upload/v1609651915/128955429_10159093295234319_3009464974639639590_o_gxsmco.jpg
 author: sweemeng
 ---
+![](https://res.cloudinary.com/dty81dwqf/image/upload/v1609651915/128955429_10159093295234319_3009464974639639590_o_gxsmco.jpg)
 I got this book not too long ago. The book is about design of common things enhanced by embedded devices, or common called in our circle IoT device. This is a more high level book than a technical one, but it have very good insights on how to make an IoT devices. 
 
 The book only covers briefly on tablets and devices with screens. The focus is on common device enhanced by embedded computers, or as author says Enchanted Objects. The idea being an common object like pill bottles, salt shakers etc, with magical power but do not need special knowledge to use. 
