@@ -1,0 +1,32 @@
+links:
+  - title: Nissan source code leaked
+    url: https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/
+    description: Nissan code leaked due to misconfigured git repo
+  - title: Whatsapp account deletion
+    url: https://thehackernews.com/2021/01/whatsapp-will-delete-your-account-if.html?m=1
+    description: WhatsApp Will Delete Your Account If You Don't Agree Sharing Data With Facebook
+  - title: Jupyter 3.0 is out
+    url: https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb
+    description: New features including a debugger
+  - title: Hubble Network, Service & Security Observability for Kubernetes
+    url: https://github.com/cilium/hubble
+    description: This is a eBPF based tools for monitoring your kubernetes instances
+  - title: Cilium
+    url: https://github.com/cilium/cilium
+    description: Another eBPF based tools by the creator of above
+  - title: Fair-Code
+    url: https://faircode.io/
+    description: Yet another software license
+  - title: Slack outage 2021
+    url: https://www.theverge.com/2021/1/4/22213105/slack-outage-down-2021-server-error
+    description: As titled
+  - title: LibreSSL status on linux
+    url: https://lwn.net/SubscriberLink/841664/0ba4265680b9dadf/
+    description: This talks about status of LibreSSL deployment
+  - title: AMD Hybrid CPU-FPGA patent
+    url: https://hothardware.com/news/amd-patent-hybrid-cpu-fpga-design-xilinx
+    description: As titled
+  - title: How to compress pubsub
+    url: https://www.reddit.com/r/devops/comments/kmltbx/how_we_compress_pubsub_messages_and_more_saving_a/
+    description: The author describe their process. The devkami team suggest using other protocol for this purposes. 
+

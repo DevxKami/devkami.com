@@ -1,0 +1,16 @@
+links:
+  - title: Should browser have access to hardware
+    url: https://www.smashingmagazine.com/2021/01/web-expose-hardware-capabilities/
+    description: The question of todays show. Should browser have access to hardware with an example of WebUSB. What web is capable now
+  - title: eBPF
+    url: https://ebpf.io/
+    description: This is one of the new thing to work with the linux kernel. 
+  - title: The Actual WebUSB spec
+    url: https://wicg.github.io/webusb/#app-drivers
+    description: This is the spec page for WebUSB
+  - title: Run Linux and DOS on browser
+    url: https://bellard.org/jslinux/index.html
+    description: This is a VM implemented to browser that can run linux
+  - title: Webassembly
+    url: https://webassembly.org/
+    description: Another thing we talk about
