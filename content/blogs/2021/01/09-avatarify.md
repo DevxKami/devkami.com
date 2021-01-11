@@ -9,7 +9,7 @@ image: https://res.cloudinary.com/dty81dwqf/image/upload/c_scale,w_872/v16097321
 
 Recently I discovered a thing called [First Order Motion Model](https://github.com/AliaksandrSiarohin/first-order-model). This is a technique to create deepfakes using a driver video and one image. It have a few interesting use, other than deepfake. One particular one is testing clothes. 
 
-But today I am doing something more mischievous. I am doing this to pretend to be someone on webcam in a chat. The way I do this is [Avatarify](https://github.com/alievk/avatarify#linux). This is an application running on a computer that create a virtual webcam for you to pretend as someone else. In this case I pretend to be einstein and Mona Lisa. 
+But today I am doing something more mischievous. I am doing this to pretend to be someone on webcam in a chat. The way I do this is [Avatarify](https://github.com/alievk/avatarify#linux). This is an application running on a computer that create a virtual webcam for you to pretend as someone else. In this case I pretend to be Einstein and Mona Lisa. 
 
 ![](https://res.cloudinary.com/dty81dwqf/image/upload/c_scale,w_997/v1609732884/Screenshot_from_2020-12-24_21-43-54_emkydk.png)
 
