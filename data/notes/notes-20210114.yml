@@ -1,0 +1,16 @@
+links:
+  - title: Software License on Wikipedia
+    url: https://en.wikipedia.org/wiki/Software_license
+    description: This is a general view
+  - title: Open Source License on Wikipedia
+    url: https://en.wikipedia.org/wiki/Open-source_license
+    description: This is focus on open source license
+  - title: Various intellectual property
+    url: https://en.wikipedia.org/wiki/Intellectual_property
+    description: This is beyond just license
+  - title: Open Source license from Open Source Initiative. 
+    url: https://opensource.org/licenses
+    description: This is an org for advocating open source
+  - title: Software Freedom Conservancy
+    url: https://sfconservancy.org/
+    description: This is a nonprofit that protect software freedom

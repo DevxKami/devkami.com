@@ -1,0 +1,16 @@
+links:
+  - title: JetBrains' build automation software eyed as possible enabler of SolarWinds hack
+    url: https://www.theregister.com/2021/01/07/jetbrains_solarwinds_accusation/
+    description: JewBrains have denies this. But they are being investigated
+  - title: Parler is booted by major platofmr
+    url: https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html
+    description: This is after the big mess in US
+  - title: Ubiquiti is breached
+    url: https://www.zdnet.com/article/ubiquiti-tells-customers-to-change-passwords-after-security-breach/
+    description: User is asked to change password
+  - title: Malware discovered in Solar Wind attack
+    url: https://www.zdnet.com/article/third-malware-strain-discovered-in-solarwinds-supply-chain-attack/
+    description: This is the third one
+  - title: Cloud linux prepare for centos alternatives
+    url: https://www.zdnet.com/google-amp/article/cloudlinux-readies-centos-linux-replacement-almalinux/
+    description: As titled
