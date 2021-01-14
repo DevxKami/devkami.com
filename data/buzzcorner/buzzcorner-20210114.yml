@@ -14,3 +14,6 @@ links:
   - title: Cloud linux prepare for centos alternatives
     url: https://www.zdnet.com/google-amp/article/cloudlinux-readies-centos-linux-replacement-almalinux/
     description: As titled
+  - title: Beagle V
+    url: https://beaglev.seeed.cc/
+    description: A raspberry pi alternative with AI Acceleration
