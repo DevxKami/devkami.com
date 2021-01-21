@@ -1,0 +1,30 @@
+links:
+  - title: Linux usable on M1 Mac
+    url: https://twitter.com/cmwdotme/status/1351838924621099008
+    description: More work is needed but is a beginning
+
+  - title: Wine release new version
+    url: https://www.winehq.org/announce/6.0
+    description: This is a windows system call emulation layer for linux
+  - title: Ruby is now usable in google cloud function
+    url: https://cloud.google.com/blog/products/application-development/ruby-comes-to-cloud-functions
+    description: This is news to me
+  - title: Elastic search and kibana change license
+    url: https://anonymoushash.vmbrasseur.com/2021/01/14/elasticsearch-and-kibana-are-now-business-risks
+    description: As titled
+  - title: fitbit join google
+    url: https://blog.fitbit.com/2021-update/
+    description: as titled
+  - title: Hugging Face Zero-shot classification
+    url: https://huggingface.co/zero-shot/
+    description: Not new but interesting because it take very few training to work well
+  - title: Security Lah podcast
+    url: https://securitylah.asia/about/
+    description: THey are on spotify and is by a well known security people in malaysia
+  - title: Redhat new tier
+    url: https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
+    description: Redhat have new tier for developer and usable for free up to 12 server
+  - title: Raspberry Pi Pico
+    url: https://my.cytron.io/p-raspberry-pi-pico
+    description: A microcontroller class device from raspberry pi foundation
+
