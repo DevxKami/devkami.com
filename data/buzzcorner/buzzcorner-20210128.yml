@@ -1,0 +1,28 @@
+links:
+  - title: Tucows Retired
+    url: https://tucows.com/retired/
+    description: Only the OGs know
+  - title: Food for Free Code
+    url: https://daniel.haxx.se/blog/2021/01/15/food-on-the-table-while-giving-away-code/
+    description: The creator of curl talk how open source and business can work. 
+  - title: Intel rehire retired architects
+    url: https://www.anandtech.com/show/16438/new-intel-ceo-making-waves-rehiring-retired-cpu-architects
+    description: Old chip designer don't die. They are rehired by intel.
+  - title: Azure Active Directory now in .net core 3.1
+    url: https://devblogs.microsoft.com/dotnet/azure-active-directorys-gateway-service-is-on-net-core-3-1/
+    description: As title
+  - title: Bluzelle’s Incoming Mainnet Launch Will Be a Game-Changer for Data Storage
+    url: https://techbullion.com/bluzelles-incoming-mainnet-launch-will-be-a-game-changer-for-data-storage/
+    description: as titled
+  - title: Soar: Simulation for Observability, reliAbility, and secuRity
+    url: https://blog.cloudflare.com/soar-simulation-for-observability-reliability-and-security/
+    description: Cloudflare teaching us about soar
+  - title: Browser makers launch new project for writing documentation for Web APIs | ZDNet
+    url: https://www.zdnet.com/article/browser-makers-launch-new-project-for-writing-documentation-for-web-apis/ 
+    description: As some member of devkami think, replacement for MDN
+  - title: Dota 2 - Overwatch Arrives in Dota
+    url: https://store.steampowered.com/news/app/570/view/3025824821114909461
+    description: More tool to regulate behavior in Dota
+  - title: Circuit python
+    url: https://github.com/adafruit/circuitpython
+    description: This is a more easy to use micropython for microcontroller. Useful for learning but not production
