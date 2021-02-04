@@ -1,0 +1,43 @@
+links:
+  - title: Advanced Wearable Competition
+    url: https://www.hackster.io/contests/nordicadvanced 
+    description: More competition for you to get hardware to hack
+  - title: Firefox have no plan to support PWA
+    url: https://www.reddit.com/r/programming/comments/l77eq7/there_is_currently_no_plan_for_pwa_support_in/
+    description: As titled
+  - title: Robinhood review bombed
+    url: https://www.theverge.com/2021/1/28/22255245/google-deleting-bad-robinhood-reviews-play-store
+    description: Drama at reddit and wallstreet
+  - title: Google launch VM manager again
+    url: https://www.zdnet.com/google-amp/article/google-launches-vm-manager-for-automated-infrastructure-management/#click=https://t.co/tUH6yxZJsA
+    description: New tool to manage infrastructure
+  - title: Chrome 89 beta is out
+    url: https://blog.chromium.org/2021/01/chrome-89-beta-advanced-hardware.html
+    description: Featuring Advance hardware and stuff
+  - title: Bing want in if google gone out
+    url: https://www.thevibes.com/articles/business/16063/microsoft-seeks-to-fill-void-if-google-exits-australia
+    description: Google is threaten to leave australia, microsoft is taking opportunity
+  - title: Slack release incident report for the last outage
+    url: https://slack.engineering/slacks-outage-on-january-4th-2021/
+    description: As titled
+  - title: What the F
+    url: https://onurgumus.github.io/2021/01/31/What-the-F.html
+    description: More of F# the language and community
+  - title: WHitehouse webpage easter egg
+    url: https://www.cnbc.com/2021/01/21/biden-white-house-website-has-secret-job-offer-for-tech-workers.html
+    description: THis is for recruitment for the USDS
+  - title: Google stadia studio is no more
+    url: https://www.theedgemarkets.com/article/google-shut-down-internal-stadia-game-development-studios
+    description: As titled
+  - title: Happy birthday VLC
+    url: https://www.videolan.org/press/videolan-20.html
+    description: VLC is now 20 year old
+  - title: VS Code go now have Gopls on by default
+    url: https://blog.golang.org/gopls-vscode-go
+    description: As titled
+  - title: Pip drop support for python 2
+    url: https://pip.pypa.io/en/stable/news/#id4
+    description: AS titled
+  - title: GHL Data breach
+    url: https://www.theedgemarkets.com/article/ghl-system-investigating-epay-data-breach-claims
+    description: They are investigating
