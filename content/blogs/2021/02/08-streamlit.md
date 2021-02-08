@@ -7,7 +7,7 @@ author: sweemeng
 ---
 ![](https://res.cloudinary.com/dty81dwqf/image/upload/c_scale,w_577/v1612762752/Screenshot_from_2021-02-08_13-37-52_batvfu.png)
 
-Not too long ago I created a survey for Malaysian Software Developers about their tools and practices. It has a 90+ response, so it is not the most comprehensive, but it yields some interesting results. The data of the survey is at [here](https://docs.google.com/spreadsheets/d/1yfODXNnmq9ZwhbKLgbgA9YfWQrbNdHuT7eNJlZrnfNU/edit#gid=442819241). The application is at [here](https://share.streamlit.io/sweemeng/devkami_dev_survey_streamlit/main/application_explorer.py)
+Not too long ago I created a survey for Malaysian Software Developers about their tools and practices. The detail can be found [here]({{<ref "blogs/2021/02/08-job-survey.md">}}).
 
 To present the data, I decided to use a tool called [Streamlit](https://www.streamlit.io/). Streamlit is an open source tools based on Python to build data applications. It provides ways to build widgets to manipulate and present data, and present it as a web application. It does it with only python. For R user, similar tools already exist it is called [Shiny](https://shiny.rstudio.com/)
 
