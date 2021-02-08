@@ -1,5 +1,5 @@
 ---
-title: "My experiment Streamlit with streamlit"
+title: "My experiment with Streamlit"
 date: 2021-02-08
 tags: ["data science", "streamlit", "python"]
 image: https://res.cloudinary.com/dty81dwqf/image/upload/c_scale,w_577/v1612762752/Screenshot_from_2021-02-08_13-37-52_batvfu.png
