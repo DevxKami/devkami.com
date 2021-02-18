@@ -1,0 +1,50 @@
+links:
+  - title: State of Go Report
+    url: https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/
+    description: This is a report by jetbrain the IDE maker for go
+  - title: Haskell Software Foundation
+    url: https://haskell.foundation/
+    description: there is now a foundation for haskell
+  - title: Android emulator used to introduce malware
+    url: https://blog.malwarebytes.com/awareness/2021/02/android-emulator-abused-to-introduce-malware-onto-pcs/
+    description: This affect bignox
+  - title: Shell enter supply deal with amazon
+    url: http://reut.rs/2N3wziX
+    description: As title
+  - title: Google join Rust Foundation
+    url: http://goo.gle/3a2CT2U
+    description: As title
+  - title: One second to read github code on vs code
+    url: https://github.com/conwnet/github1s
+    description: As title
+  - title: WInner and losers of telco during MCO
+    url: https://www.soyacincau.com/2021/02/10/opensignal-u-mobile-digi-biggest-losers-celcom-clear-winner-when-it-comes-to-subscribers-during-the-mco/
+    description: As title
+  - title: Slack compromised if you use android client
+    url: https://www.theverge.com/2021/2/10/22277054/slack-android-psa-password-reset-email-plaintext
+    description: As title
+  - title: Researcher manage a supply chain hack to 35 tech firm
+    url: https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/
+    description: AS title
+  - title: Mobile bank MoneyLion to go public via blank-check merger in $2.9 billion deal
+    url: https://finance.yahoo.com/news/mobile-bank-moneylion-public-via-123545010.html?guccounter=1
+    description: As title
+  - title: Issue with owning a .so
+    url: https://twitter.com/epsilontheory/status/1360239738020634629?s=21
+    description: As title
+  - title: Go generics is accepted
+    url: https://github.com/golang/go/issues/43651#issuecomment-776944155 
+    description: As title
+  - title: 26 years of delphi
+    url: https://blogs.embarcadero.com/26-years-of-delphi/
+    description: As title
+  - title: go 1.16 is out
+    url: https://blog.golang.org/go1.16 (
+    description: As title
+  - title: Python pattern matching is accepted
+    url: https://www.python.org/dev/peps/pep-0634/
+    description: As title.
+  - title: Python Pattern Matching tutorial
+    url: https://github.com/gvanrossum/patma/blob/master/README.md#tutorial
+    description: A tutorial of above by the creator of python himself
+
