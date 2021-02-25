@@ -1,0 +1,28 @@
+links:
+  - title: Mydigital blueprint
+    url: https://www.epu.gov.my/sites/default/files/2021-02/malaysia-digital-economy-blueprint.pdf
+    description: This is blueprint for the malaysian government plan in the digital world. The big thing is gov service move to cloud, digitization
+  - title: Opal 1.1 is out
+    url: https://github.com/opal/opal/releases/tag/v1.1.0
+    description: This is a ruby to js compiler
+  - title: The technology for Ingenuinity the Mars Helicopter
+    url: https://hackaday.com/2021/02/20/a-look-at-the-risky-tech-in-nasas-martian-helicopter/
+    description: Interesting because it uses linux, a snapdragon processor, and tested with some sparkfun sensor
+  - title: Python float Code exection
+    url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177
+    description: Python 3 float allows code execution. This should be fixed with the latest patch
+  - title: Fat fritz a new commercial chess engine causing controversy
+    url: https://stockfishchess.org/blog/2021/statement-on-fat-fritz-2/
+    description: According to some source, they are using an open source models with minimum configuration and package it
+  - title: Typescript 4.2 is out
+    url: https://devblogs.microsoft.com/typescript/announcing-typescript-4-2/
+    description: New version!
+  - title: Firefox 86 introduce Total cookie protection
+    url: https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/
+    description: This confines cookie to site they are from
+  - title: Postgres regex search 10k repo only on a macbook
+    url: https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositories
+    description: The author did a performance and show the methods of pg_trgm
+  - title: Evolving schemaless into an sql database
+    url: https://eng.uber.com/schemaless-sql-database/
+    description: uber showing how to use their tools
