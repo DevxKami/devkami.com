@@ -1,0 +1,13 @@
+links:
+  - title: Stanley's profile
+    url: https://www.seeedstudio.com/blog/blog/2019/03/18/the-maker-pro-you-should-know-meet-stanley-from-malaysia/
+    description: This is Stanleys profile from seeedstudio showcasing maker
+  - title: Tristan's profile
+    url: https://hackaday.io/parasquid
+    description: tristans hackaday page
+  - title: Tze jin's page
+    url: https://wemaker.medium.com/raspberry-pi-pico-first-look-fe28642dddad
+    description: One of the prominent maker here. 
+  - title: sweemeng's only project
+    url: https://github.com/engineersmy/hazewatch_kl/tree/master/implementations/m5stack
+    description: This is something for hazewatch
