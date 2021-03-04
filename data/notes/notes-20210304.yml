@@ -11,3 +11,12 @@ links:
   - title: The hardware hackers Adventures in Making and Breaking Hardware
     description: This is a book by bunnie huang. This is a recommended book because he is in hardware business, and talk about the reality of designing hardware, manufacturing etc. 
     url: https://www.goodreads.com/book/show/30804383-the-hardware-hacker
+  - title: Pinecil soldering
+    description: Just an example of a soldering iron, this one with RISV-V
+    url: https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/?v=0446c16e2e66
+  - title: kicad, the open source EDA
+    description: This is the EDA that stanley use
+    url: https://kicad.org/
+  - title: Practical Electronics for Inventors
+    description: This is a book recommended by shawn on electronics
+    url: https://www.goodreads.com/book/show/687619.Practical_Electronics_for_Inventors
