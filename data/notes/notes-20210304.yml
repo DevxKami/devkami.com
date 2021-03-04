@@ -1,0 +1,10 @@
+links:
+  - title: Sparkfun Learning
+    description: This is a resource on sparkfun teaching electronics and their product
+    url: https://learn.sparkfun.com/tutorials/where-do-i-start/all
+  - title: Resource from Adafruit
+    description: resource from adafruit
+    url: https://learn.adafruit.com/categories
+  - title: Learning electronics, 
+    description: This is a book, which covers the basics
+    url: https://www.makershed.com/products/make-electronics-2ed
