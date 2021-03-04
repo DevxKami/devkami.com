@@ -5,6 +5,9 @@ links:
   - title: Resource from Adafruit
     description: resource from adafruit
     url: https://learn.adafruit.com/categories
-  - title: Learning electronics, 
-    description: This is a book, which covers the basics
+  - title: Learning electronics 
+    description: This is a book, which covers the basics. I have the first edition. it covers the right information even if US centric. 
     url: https://www.makershed.com/products/make-electronics-2ed
+  - title: The hardware hackers Adventures in Making and Breaking Hardware
+    description: This is a book by bunnie huang. This is a recommended book because he is in hardware business, and talk about the reality of designing hardware, manufacturing etc. 
+    url: https://www.goodreads.com/book/show/30804383-the-hardware-hacker
