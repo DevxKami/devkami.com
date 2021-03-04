@@ -1,0 +1,22 @@
+links:
+  - title: An alternative to auth0
+    description: Super tokens is an alternative to auth0
+    url: https://supertokens.io/
+  - title: traitor
+    description: This is a tool to do linux Privilege escalation
+    url: https://github.com/liamg/traitor
+  - title: VMWare security vulnerability
+    description: This vulnerability have a severity rating of 9.8
+    url: https://arstechnica.com/information-technology/2021/02/armed-with-exploits-hackers-on-the-prowl-for-a-critical-vmware-vulnerability/
+  - title: Go is now commonly used in malware
+    description: There's been a 2,000% increase of new malware written in Go over the past few years.
+    url: https://www.zdnet.com/article/go-malware-is-now-common-having-been-adopted-by-both-apts-and-e-crime-groups/
+  - title: Python developer survey
+    description: This is the annual survey
+    url: https://www.jetbrains.com/lp/python-developers-survey-2020/
+  - title: Power Automate Desktop is free
+    description: This is a tool to automate windows desktop. 
+    url: https://techcrunch.com/2021/03/02/microsofts-power-automate-desktop-is-now-free-for-all-windows-10-users/
+  - title: Flutter is out
+    url: https://developers.googleblog.com/2021/03/announcing-flutter-2.html
+    description: big release for flutter
