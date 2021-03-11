@@ -8,3 +8,9 @@ links:
   - title: A maker community
     url: https://www.hackster.io/projects?ref=topnav
     description: You should join this for inspiration
+  - title: difference between uart, i2c, spi
+    url: https://www.seeedstudio.com/blog/2019/11/07/arduino-communication-peripherals-uart-i2c-and-spi/
+    description: With a focus on arduino, with links to other place
+  - title: bit banging
+    url: https://en.wikipedia.org/wiki/Bit_banging
+    description: this is the wiki article
