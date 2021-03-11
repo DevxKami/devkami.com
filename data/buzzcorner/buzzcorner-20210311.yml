@@ -1,0 +1,25 @@
+links:
+  - title: deno 1.8 is out
+    url: https://deno.land/posts/v1.8#new-features-and-changes
+    description: This is another js implementation from the creator of node.js
+  - title: Pytorch 1.8 is out
+    url: https://github.com/pytorch/pytorch/releases/tag/v1.8.0
+    description: This is an alternative to tensorflow, popular among researcher. 1.8 feacure rocm support
+  - title: Mayastore
+    url: https://www.percona.com/community-blog/2020/10/23/mayastor-lightning-fast-storage-for-kubernetes/
+    description: this is a fast storage for kubernetes
+  - title: steampiple
+    url: https://steampipe.io/
+    description: A way to query cloud service api with sql
+  - title: git clone vulnerability
+    url: https://github.blog/2021-03-09-git-clone-vulnerability-announced/
+    description: This one affect symlink on a case insensitive fs
+  - title: citus 10 open source rebalancer and more
+    url: https://www.citusdata.com/blog/2021/03/05/citus-10-release-open-source-rebalancer-and-columnar-for-postgres/
+    description: This is a version of postgres with some neat feature
+  - title: Netflix cosmo platform
+    url: https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad
+    description: Orchestrated function as a microservice
+  - title: Supply chain attack hit pypi
+    url: https://nakedsecurity.sophos.com/2021/03/07/poison-packages-supply-chain-risks-user-hits-python-community-with-4000-fake-modules/
+    description: We covered a little of this before, this have more detail
