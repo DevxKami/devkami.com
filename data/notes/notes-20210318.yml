@@ -1,0 +1,10 @@
+links:
+  - title: Arduino
+    url: https://www.arduino.cc/
+    description: This is the official website for arduino
+  - title: micropython
+    url: https://micropython.org/
+    description: Micropython is a python implementation for microcontroller
+  - title: ESP32
+    url: https://en.wikipedia.org/wiki/ESP32
+    description: This is a hot microcontroller
