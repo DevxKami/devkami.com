@@ -1,0 +1,22 @@
+links:
+  - title: BillPls BigInt disaster
+    url: https://help.billplz.com/article/184-the-bigint-disaster
+    description: BillPls did a postmortem on their production issue
+  - title: SigStore aim to be Let's Encrypt of Code Signing
+    url: https://www.infoq.com/news/2021/03/sigstore-crypto-supply-chain/
+    description: This is a servive to help sign code
+  - title: Github Talk about fixing a race condition issue
+    url: https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/
+    description: As titled. Cool stuff btw
+  - title: Microsoft to buy Discord
+    url: https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b
+    description: As title
+  - title: Webview issue break android app
+    url: https://www.xda-developers.com/google-confirms-webview-issue-crashing-android-apps/
+    description: Android user have an issue where webview bug break application, which have since fixed. 
+  - title: mimemagic removed from rails 
+    url: https://twitter.com/nateberkopec/status/1374722404228853762
+    description: It distribute GPL code under MIT
+  - title: Hidden OAuth Attack vector
+    url: https://portswigger.net/research/hidden-oauth-attack-vectors
+    description: As titled
