@@ -1,0 +1,19 @@
+links:
+  - title: PHP Git server hacked to add backdoor
+    description: PHP is a nice target. It still have a lot of user. 
+    url: https://www.bleepingcomputer.com/news/security/phps-git-server-hacked-to-add-backdoors-to-php-source-code/
+  - title: Gitlab fuzzer now open source
+    description: Yet another fuzzer
+    url: https://www.infoq.com/news/2021/03/gitlab-protocol-fuzzer-ce/
+  - title: Deno company
+    description: This company is here to support the development of deno
+    url: https://deno.com/blog/the-deno-company
+  - title: Perl IP Address vulnerability
+    description: This is pretty big because Perl is still used in monitoring tools
+    url: https://blog.urth.org/2021/03/29/security-issues-in-perl-ip-address-distros/
+  - title: Facebook and Google link US to indonesia
+    description: As title
+    url: https://venturebeat.com/2021/03/29/facebook-and-google-partner-on-undersea-cables-to-link-north-america-with-southeast-asia/
+  - title: Armv9 announced
+    description: CHIP WAR
+    url: https://www.anandtech.com/show/16584/arm-announces-armv9-architecture
