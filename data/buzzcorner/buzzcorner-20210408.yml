@@ -1,0 +1,14 @@
+links:
+  - title: Plan 9 the OS is released
+    description: This is a very interesting OS in its time, with feature that not even in our system now
+    url: https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/
+  - title: WIndows azure outage caused by overloaded dns
+    description: As title
+    url: https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-caused-by-overloaded-azure-dns-servers/
+  - title: IETF formally deprecate tls 1.0 and 1.1
+    description: As title
+    url: https://www.feistyduck.com/bulletproof-tls-newsletter/issue_75_ietf_formally_deprecates_tls_1_0_and_1_1
+  - title: Supreme court side with google on Oracle vs Google
+    description: This is about the right to copyright an API by Oracle
+    url: https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf
+
