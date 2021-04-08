@@ -1,0 +1,28 @@
+links:
+  - title: Chocolatey
+    url: https://chocolatey.org/
+    description: This is the package manager on windows. 
+  - title: Scoop
+    url: https://scoop.sh/
+    description: This is the alternative to chocolatey
+  - title: Windows Terminal
+    url: https://github.com/microsoft/terminal
+    description: Nowadays we don't use cmd.exe on windows, we use windows terminal
+  - title: vscode remote
+    url: https://code.visualstudio.com/docs/remote/remote-overview
+    description: This is what dev uses to do remote work on vs code
+  - title: sysinternals
+    url: https://docs.microsoft.com/en-us/sysinternals/
+    description: This is a set of tools for windows power user for troubleshooting
+  - title: windows power toys
+    url: https://docs.microsoft.com/en-us/windows/powertoys/
+    description: some utilities for windows 10
+  - title: WSL 2
+    url: https://docs.microsoft.com/en-us/windows/wsl/install-win10
+    description: Just some background
+  - title: Power automate
+    url: https://flow.microsoft.com/en-us/
+    description: This is a UI automation tools on windows
+  - title: Lobe AI
+    url: https://lobe.ai/
+    description: one of those low code AI training tool
