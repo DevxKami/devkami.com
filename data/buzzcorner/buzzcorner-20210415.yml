@@ -1,0 +1,19 @@
+links:
+  - title: HCP Vault is now available
+    url: https://www.hashicorp.com/blog/vault-on-the-hashicorp-cloud-platform-ga
+    description: This is a service to allow you to store credentials for you cloud service
+  - title: Firmware trigger XFS issue
+    url: https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/
+    description: Ceph is something like s3 for internal use, one of the instance found an issue caused by firmware problem on disk
+  - title: Linux bluetooth vulnerability
+    url: https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
+    description: As titled
+  - title: Render is a alternative to heroku
+    url: https://render.com/render-vs-heroku-comparison
+    description: This page is the comparison page from render
+  - title: Fave got acquired
+    url: https://vulcanpost.com/741830/fave-malaysia-voucher-fintech-app-acquisition-pine-labs/
+    description: As titled
+  - title: Github theme for vs code
+    url: https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/
+    description: As titled
