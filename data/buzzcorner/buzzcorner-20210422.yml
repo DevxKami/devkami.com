@@ -1,0 +1,19 @@
+links:
+  - title: Diataxis Framework
+    url: https://diataxis.fr/
+    description: A framework for writing documentation
+  - title: Docker for Apple M1 released
+    url: https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/
+    description: As titled
+  - title: Microsoft setup data center in .my
+    url: https://themalaysianreserve.com/2021/04/19/microsoft-signs-us1b-deal-with-malaysia-for-datacenter-region-cloud-services/
+    description: As titled
+  - title: Cloud flare pages is out
+    url: https://www.infoq.com/news/2021/04/cloudflare-pages-jamstack-ga/
+    description: As title
+  - title: Grafana, Loki and Tempo Relicense to AGPLv3
+    url: https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
+    description: As title
+  - title: GUI support for WSL
+    url: https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/
+    description: As title
