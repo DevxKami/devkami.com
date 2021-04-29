@@ -1,0 +1,22 @@
+links:
+  - title: Cloudflare terraform improvement
+    url: https://www.infoq.com/news/2021/04/cloudflare-terraform/
+    description: This is a tool to automate setup to cloudflare on terraform
+  - title: OPNSense and HardenedBSD split up
+    url: https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313
+    description: They will not focus only on the particular bsd and go on freebsd
+  - title: rr-project
+    url: https://rr-project.org/
+    description: THis is a replacement for gdb, but also allow replay and ide intergration. 
+  - title: Verilog to factorio
+    url: https://github.com/Redcrafter/verilog2factorio
+    description: Interesting way to use verilog
+  - title: Canonical log line
+    url: https://stripe.com/blog/canonical-log-lines
+    description: A way to generate log line
+  - title: The case of imbalance network
+    url: https://tech.ebayinc.com/engineering/sre-case-study-mysterious-traffic-imbalance/
+    description: this is a case study on network imbalance
+  - title: Ubuntu 21.04
+    url: https://liliputing.com/2021/04/ubuntu-21-04-hirsuite-hippo-released.html?
+    description: it is released
