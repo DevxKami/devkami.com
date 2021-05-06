@@ -1,0 +1,19 @@
+links:
+  - title: RotaJakiro - A long live secret backdoor with 0 VT detection
+    description: This is a reverse engineering report of a linux backdoor.
+    url: https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/
+  - title: Futex2 support on linux kernel
+    description: Interestingly this will also make wine work better because of windows style futex is different than linux
+    url: https://lkml.org/lkml/2021/4/27/1208
+  - title: The art of writing loop in python
+    description: This shows various ways/function to write loop in python. It covers iterators as well
+    url: https://medium.com/techtofreedom/the-art-of-writing-loops-in-python-68e9869e4ed4
+  - title: Youtube building own transcoder chip
+    description: As title
+    url: https://arstechnica.com/gadgets/2021/04/youtube-is-now-building-its-own-video-transcoding-chips/
+  - title: dell release security fix for laptop
+    description: This is a kernel level problem that will let attacker take over pc
+    url: https://www.theverge.com/2021/5/4/22419474/dell-security-patch-kernel-level-permissions-firmware-update-driver-dbutil-sys
+  - title: Game Builder Garage
+    description: This is a low code game maker on the nintendo switch
+    url: https://www.youtube.com/watch?v=0yM3ppz0Zt8
