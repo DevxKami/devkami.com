@@ -1,0 +1,22 @@
+links:
+  - title: AWS App Running
+    url: https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/
+    description: Yet another way to run web application in web app in AWS
+  - title: Sublime 4 is out
+    url: https://www.sublimetext.com/blog/articles/sublime-text-4
+    description: After a long while
+  - title: Listmonk
+    url: https://listmonk.app/
+    description: This is a self hosted mailing list manager
+  - title: Julian calendar correction in linux
+    url: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716
+    description: As titled. Cool story
+  - title: Greykite
+    url: https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library
+    description: This is a forecasting library from linkedin
+  - title: Quick fix cause DNS issue in sales force
+    url: https://www.theregister.com/2021/05/19/salesforce_root_cause/
+    description: quickfix cause DNS problem
+  - title: Fuscia OS is out first in Nest hub
+    url: https://www.osnews.com/story/133459/google-is-officially-releasing-its-fuchsia-os-starting-with-first-gen-nest-hub/
+    description: New OS
