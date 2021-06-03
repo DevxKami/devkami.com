@@ -1,0 +1,25 @@
+links:
+  - title: A story of a chinese typewriter from IBM
+    url: https://www.scmp.com/magazines/post-magazine/long-reads/article/3135053/she-memorised-ibm-typewriter-codes-5400-chinese
+    description: Turns out that IBM have a prototype of a chinese type writer. It is a cool story
+  - title: MDN Plus
+    url: https://developer.mozilla.org/en-US/plus
+    description: MDN may go premium
+  - title: John deere API Vulnerability
+    url: https://sick.codes/leaky-john-deere-apis-serious-food-supply-chain-vulnerabilities-discovered-by-sick-codes-kevin-kenney-willie-cade/
+    description: this have interesting implication as this is used in tractor and what not
+  - title: Fujitsu Saas attack
+    url: https://threatpost.com/fujitsu-saas-hack-japan-scrambling/166517/
+    description: It is bad enough they have to disable the platform
+  - title: Amazon slidewalk allow sharing of network with neighbor
+    url: https://arstechnica.com/gadgets/2021/05/amazon-devices-will-soon-automatically-share-your-internet-with-neighbors/
+    description: Mostly a US thing. But this allow internet to be shared with device. 
+  - title: winget 1.0 is out
+    url: https://github.com/microsoft/winget-cli
+    description: It is released!
+  - title: Granular sizing for spanner
+    url: https://cloud.google.com/blog/products/databases/get-more-out-of-spanner-with-granular-instance-sizing
+    description: You get more control on the cost
+  - title: Stack overflow sold
+    url: https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400
+    description: It is sold for 1.8 bil. 
