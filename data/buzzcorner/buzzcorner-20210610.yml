@@ -1,0 +1,10 @@
+links:
+  - title: Ten years of breach in one image
+    url: https://www.theverge.com/22518557/data-breach-infographic-leaked-passwords-have-i-been-pwned
+    description: Based on data from Have I been Pwned. T developer create a visualization
+  - title: One customer have brought down fastly
+    url: https://www.theverge.com/2021/6/9/22525820/fastly-outage-bug-customer
+    description: This outage take down a big part of the interwebs. 
+  - title: Gopls 0.7 is out
+    url: https://github.com/golang/tools/releases/tag/gopls/v0.7.0
+    description: This is a language server used on vs code and what not
