@@ -1,0 +1,19 @@
+links:
+  - title: MyIX record 1Tbps of internet use
+    url: https://www.thestar.com.my/news/nation/2021/06/12/malaysian-traffic-moves-to-cyberspace-myix-records-over-1tbps-internet-usage-in-june-2021
+    description: MyIX is the local internet exchange, they have recorded 1Tbps of internet use
+  - title: Toward Vagrant 3.0
+    url: https://www.hashicorp.com/blog/toward-vagrant-3-0
+    description: Hashicorp have ported vagrant to go. It begins to path to vagrant 3.0
+  - title: NSA release methods that also useful for solving puzzle
+    url: https://phys.org/news/2021-05-declassified-cold-war-code-breaking-manual.html
+    description: This is mostly code breaking. But it is pretty interesting how they think
+  - title: Hey is a load generator
+    url: https://github.com/rakyll/hey
+    description: This is an alternative to ab for load testing
+  - title: Nymphcast
+    url: https://github.com/MayaPosch/NymphCast/
+    description: This turn a linux hardware into a audio and video source
+  - title: Nintendo release Game Builder Garage
+    url: https://www.nintendo.com/games/detail/game-builder-garage-switch/
+    description: This is a no code game designer on the nintendo switch, but for small game
