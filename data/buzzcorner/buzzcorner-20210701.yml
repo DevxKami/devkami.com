@@ -1,0 +1,28 @@
+links:
+  - url: https://soyacincau.com/2021/06/24/data-centre-cloud-provider-malaysia-mcmc-regulation-search-seizure-orders/
+    title: Data center may need to comply search and seizure
+    description: New rules for data center before anything even start
+  - url: https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
+    title: WD My Book data lost
+    description: A zero day is out there, recommend you plug the drive out of the internet
+  - url: https://github.com/features/codespaces
+    title: Github
+    description: this is a paid feature. Still early. For developing code on github
+  - url: https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/
+    title: Microsoft teams 2.0 dropping electron to use edge webview
+    description: teams 2.0 user should be happy
+  - url: https://copilot.github.com/
+    title: Github copilot
+    description: Now you have assistant for your code. May we still keep our job
+  - url: https://www.theedgemarkets.com/article/myix-records-over-1-tbps-internet-traffic-june-2021
+    title: MyIX reach 1Tbps on june
+    description: it is a record
+  - url: https://github.com/CITF-Malaysia/citf-public
+    title: Malaysia vaccination data release
+    description: it is a start. 
+  - url: https://www.youtube.com/watch?v=RWUnC2uf3XY
+    title: Hubble space telescope computer problem
+    description: Video shows how the computer on the telescope work. 
+  - url: https://github.com/afwu/PrintNightmare
+    title: RCE on windows spooler service
+    description: This is big!
