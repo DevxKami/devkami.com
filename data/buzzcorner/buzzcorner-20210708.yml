@@ -1,0 +1,10 @@
+links:
+  - title: Kaseya ransomware
+    url: https://www.reddit.com/r/sysadmin/comments/ocgalw/kaseya_ransomware_attack_taking_place/
+    description: The ransomware is not kaseya, but the company that got hit. 
+  - title: GPT-J-6B
+    url: https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
+    description: The is a open version of the GPT-3 like model. Open to use locally and what not. 
+  - title: Kitajaga.co
+    url: https://kitajaga.co/
+    description: This is a service for tracking people that need help and also ask for help
