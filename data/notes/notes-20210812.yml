@@ -1,0 +1,13 @@
+links:
+  - title: GetOTP
+    url: https://otp.dev/en/
+    description: The Service that is the highlight of the show
+  - title: Laloka labs
+    url: https://twitter.com/lalokalabs
+    description: This is the team behind the product. Also the highlight of the show
+  - title: Remote Worker life
+    url: https://theremoteworker.life/
+    description: a set of resource of remote workers
+  - title: GetOTP Demo site
+    url: https://demo.otp.dev/
+    description: It is linked to the main site, but I put here anyway. Also the main site also serve as another demo site
