@@ -1,0 +1,13 @@
+links:
+  - title: NVIDIA 470.63.01 is out for Linux adding VK_KHR_wayland_surface support
+    url: https://www.gamingonlinux.com/2021/08/nvidia-4706301-is-out-for-linux-adding-vk-khr-wayland-surface-support
+    description: This is a beginning to have better graphic support for linux, which is awesome for gaming
+  - title: Unity to acquire Parsec
+    url: https://investors.unity.com/news/news-details/2021/Unity-Enters-Into-Agreement-to-Acquire-Parsec/default.aspx
+    description: Parsec is a company that product technology to create real time 3d content. 
+  - title: New github shortcut
+    url: https://twitter.com/github/status/1425505817827151872?s=21
+    description: Press .
+  - title: Accenture says lockbit have no impact
+    url: https://www.zdnet.com/article/accenture-says-lockbit-ransomware-attack-caused-no-impact-on-operations-or-clients/
+    description: As titled
