@@ -1,0 +1,13 @@
+links:
+  - title: Tech giants unite to drive ‘transformational’ open source eBPF projects
+    url: https://venturebeat.com/2021/08/12/tech-giants-unite-to-drive-transformational-open-source-ebpf-projects/
+    description: eBPF Gain more support from big company
+  - title: New cable bypass malaysia and go to our neighbor
+    url: https://www.bloomberg.com/news/articles/2021-08-16/google-and-facebook-s-new-cable-to-link-japan-and-southeast-asia
+    description: This is a policy mistake, unfortunately many in power are blind. 
+  - title: Docker credential magic
+    url: https://medium.com/@jdolitsky/docker-credential-magic-a-magic-shim-for-docker-credential-helpers-deae9e78c2df
+    description: this helps to use docker at different registry provider. Because each login differently
+  - title: Gokart
+    url: https://github.com/praetorian-inc/gokart
+    description: Go security static analysis
