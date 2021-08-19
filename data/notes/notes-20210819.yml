@@ -1,0 +1,16 @@
+links:
+  - title: Stencil
+    url: https://www.usestencil.com/
+    description: Product of the day, a way to easily create image variation 
+  - title: Rescript
+    url: https://rescript-lang.org/docs/manual/latest/introduction
+    description: this is the frontend language used by stencil
+  - title: Integromat
+    url: https://www.integromat.com/en
+    description: the integration service shown today
+  - title: Elixir
+    url: https://elixir-lang.org/
+    description: THe backend language
+  - title: Shulhi our guest
+    url: https://github.com/shulhi
+    description: Our guest
