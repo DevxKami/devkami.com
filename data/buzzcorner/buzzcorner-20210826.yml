@@ -1,0 +1,19 @@
+links:
+  - title: infracost integration to atlantis
+    url: https://github.com/infracost/infracost-atlantis
+    description: atlantis is a terraform pull request platform, this will also calculate cost as part of infra
+  - title: Windows 10 access with plugging a razer mouse
+    url: https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/
+    description: mostly local attack, just becareful when outside
+  - title: gitlab needs job dependency definition
+    url: https://twitter.com/dnsmichi/status/1429475480030351364?s=21
+    description: This now available everywhere now have stageless pipeline
+  - title: Microsoft power app hacked
+    url: https://www.dailymail.co.uk/news/article-9920349/Massive-Microsoft-Power-Apps-data-breach-exposes-personal-details-38-million-people.html
+    description: exposes 38 mil people
+  - title: grafana lab reach USD 3bil valuation
+    url: https://www.bloomberg.com/news/articles/2021-08-24/grafana-labs-raises-220-million-round-at-3-billion-valuation
+    description: as title
+  - title: google says staff have no right to protest client choice
+    url: https://www.thestar.com.my/tech/tech-news/2021/08/25/google-says-staff-have-no-right-to-protest-its-choice-of-clients
+    description: as title
