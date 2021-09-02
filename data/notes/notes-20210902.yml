@@ -1,0 +1,7 @@
+links:
+  - title: rhasspy
+    url: https://rhasspy.readthedocs.io/en/latest/
+    description: The thing we talk about
+  - title: the awesome list
+    url: https://github.com/koenvervloesem/awesome-rhasspy
+    description: Awesome list of rhasspy

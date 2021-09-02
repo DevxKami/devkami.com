@@ -1,0 +1,16 @@
+links:
+  - title: Google cloud src
+    url: https://cloud.google.com/sre?
+    description: This is the site about sre story
+  - title: WARP for linux
+    url: https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/
+    description: This also include proxy mode
+  - title: Pretty maps
+    url: https://github.com/marceloprates/prettymaps
+    description: This is a library to style openstreetmap map. 
+  - title: Playdate pulp
+    url: https://www.gamedeveloper.com/console/playdate-pulp-zero-to-video-game-in-60-seconds
+    description: It is a devkit for playdate console
+  - title: glean
+    url: https://glean.software/?open
+    description: this is a software to query source code
