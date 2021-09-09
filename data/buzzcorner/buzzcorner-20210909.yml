@@ -1,0 +1,17 @@
+links:
+  - title: Android Subsystem for windows is up
+    url: https://www.xda-developers.com/windows-subsystem-for-android-microsoft-store/
+    description: it is up in store but you can't install it
+  - title: OpenWrt 21.02 stable release
+    url: https://openwrt.org/releases/21.02/notes-21.02.0
+    description: This is a big release and will be adopted by the community soon
+  - title: All primary computer and other system fail on landing
+    url: https://avherald.com/h?article=4d97ca46&opt=0
+    description: Big system failure on a plane
+  - title: US Cybercom give statement on Confluence vulnerability
+    url: https://www.zdnet.com/article/us-cybercom-says-mass-exploitation-of-atlassian-confluence-vulnerability-ongoing-and-expected-to-accelerate/
+    description: There will be more exploitation soon
+  - title: Covid now
+    url: https://covidnow.moh.gov.my/
+    description: this is a new covid site built with a collaboration of govt and the community
+
