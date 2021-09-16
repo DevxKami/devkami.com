@@ -1,0 +1,10 @@
+links:
+  - title: Rasa
+    url: https://rasa.com/docs/rasa/
+    description: This is the chatbot library we're talking about
+  - title: Rasa Playground
+    url: https://rasa.com/docs/rasa/playground
+    description: This is the playground
+  - title: Malay Huggingface
+    url: https://huggingface.co/malay-huggingface
+    description: This is the Malay language models on huggingface
