@@ -1,0 +1,19 @@
+links:
+  - title: Go 1.17.1 and Go 1.16.8 is released
+    description: This fixes some out of memory error
+    url: https://golangtutorial.dev/news/go-1.17.1-and-go-1.16.8-versions-released/
+  - title: Supabase is raises 30mil
+    description: this is the open source backend as a service company
+    url: https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/
+  - title: Epic is allowed to use their own payments
+    description: As titled
+    url: https://www.nytimes.com/2021/09/10/technology/epic-apple-app-developers.html?smid=tw-nytimes&smtyp=cur
+  - title: How whatsapp enable e2e encryption
+    description: as title
+    url: https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/
+  - title: Chinese government to breakup alipay
+    description: This is a series of effort in china against anti trust
+    url: https://archive.is/PYDmu
+  - title: Microsoft azure agent on linux cause unauthorize code execution
+    description: as titled
+    url: https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution
