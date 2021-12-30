@@ -1,0 +1,204 @@
+links:
+- content: "CYBERTEC PostgreSQL International GmbH R\xF6merstra\xDFe 19 2752 W\xF6\
+    llersdorf AUSTRIA +43 (0) 2622 93022-0 office@cybertec.at twitter.com/PostgresSupport\
+    \ github.com/cybertec-postgresql  \u2022 Administration \u2022 Replication \u2022\
+    \ Consulting \u2022 Database Design \u2022 Support \u2022 Migration \u2022 Development\
+    \ \_ SUPPORT CUSTOMERS Go to the support platform >> Check out previous newsletters!\
+    \ He is CEO and technical lead of CYBERTEC, which is one of the market leaders\
+    \ in this field and has served countless customers around the globe since the\
+    \ year 2000."
+  title: Getting started with QGIS, PostgreSQL and PostGIS
+  url: https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/
+- content: "It was easier than I thought to create a mail server that works as well\
+    \ as Gmail\u2019s, and now really happy that I\u2019m one of those weirdos that\
+    \ hosts their own mail server. I\u2019m a bit of a privacy geek, but it wasn\u2019\
+    t the driving force behind me owning the infra - but still the thought of all\
+    \ of my business email touching a Google server was always a bit of a sting. The\
+    \ blog article is the setup to make Docker Mailserver act like a Gmail server\
+    \ - if you don\u2019t really care about Archive/Junk/All Mail working, you can\
+    \ just use the default setup and be reasonably happy. I won\u2019t go into it\
+    \ here, but Docker Webserver handles this for you transparently - you just need\
+    \ to add the DNS TXT record to your domain & the email server will do the rest.\
+    \ Of all the programmers you\u2019ve met in your (maybe long) career, which ones\
+    \ were \u2018...\n \nAt work I\u2019ve been recently exposed to a large and complicated\
+    \ React application written in ES6."
+  title: Deploy a Gmail-like email server in 30 (ish) minutes
+  url: https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/
+- content: The vscode extension shows a guessed (or explicitly written in a RBS file)
+    method signature above each method definition, draws a red underline under the
+    code that may cause a name error or type error, and completes method names (i.e.,
+    shows method candidates).
+  title: Ruby
+  url: https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/
+- content: "The Motorola Envoy\u2019s smart desktop was way ahead of its time\u2014\
+    until it wasn\u2019t  Introduced in 1994, the Motorola Envoy used a groundbreaking\
+    \ operating system created by Apple spinoff General Magic. A competitor to the\
+    \ Motorola Envoy that also used Magic Cap, Sony\u2019s Magic Link, had a phone\
+    \ jack and could connect to the AT&T PersonaLink Service network via a dial-up\
+    \ modem; it also had built-in access to the America Online network. The Motorola\
+    \ Envoy\u2019s graphical user interface was based on skeuomorphic design, in which\
+    \ virtual objects resemble their real-world counterparts and suggest their uses.Cooper\
+    \ Hewitt, Smithsonian Design Museum A control bar across the bottom of the screen\
+    \ aided in navigation. Marc Porat had challenged his team to create a product\
+    \ that \u201Conce you use it, you won\u2019t be able to live without it.\u201D\
+    \ General Magic fell short of that mark, but it groomed a cadre of engineers and\
+    \ designers who went on to deliver those can\u2019t-live-without-it devices. There\u2019\
+    s just something about the Envoy\u2019s bitmapped grayscale icons that screams\
+    \ 1990s, a time when we were on the cusp of the Internet boom but didn\u2019t\
+    \ yet realize what that meant."
+  title: In 1989, General Magic Saw the Future of Smartphones
+  url: https://spectrum.ieee.org/general-magic-motorola-envoy
+- content: "\u201CThanks to the shared efforts by the community, including the work\
+    \ initiated by the MLCommons Association and its members, the movement demonstrates\
+    \ the potential for Data-Centric AI, and how we can collectively implement a greater\
+    \ AI adoption.\u201D \u201CSpeech technology can empower billions of people across\
+    \ the planet, but there\u2019s a real need for large, open, and diverse datasets\
+    \ to catalyze innovation,\u201D said David Kanter, the MLCommons Association co-founder\
+    \ and executive director. \n12.14.2021\n    \u2014 San Francisco, CA\n   Engineering\
+    \ consortium advances data-centric AI with pioneering datasets and tools The MLCommons\
+    \ Association, an open engineering consortium dedicated to improving machine learning\
+    \ for everyone, today announced the general availability of the People\u2019s\
+    \ Speech Dataset and the Multilingual Spoken Words Corpus (MSWC). I\u2019m excited\
+    \ for these datasets to improve everyday experiences like voice-enabled consumer\
+    \ devices and speech recognition.\u201D About the MLCommons Association\nThe foundation\
+    \ for the MLCommons Association began with the MLPerf benchmark in 2018, which\
+    \ rapidly scaled as a set of industry metrics to measure machine learning performance\
+    \ and promote transparency of machine learning techniques. The MLCommons Association\
+    \ is a firm proponent of Data-Centric AI (DCAI), the discipline of systematically\
+    \ engineering the data for AI systems by developing efficient software tools and\
+    \ engineering practices to make dataset creation and curation easier. In collaboration\
+    \ with its 50+ founding member partners - global technology providers, academics\
+    \ and researchers, the MLCommons Association is focused on collaborative engineering\
+    \ work that builds tools for the entire machine learning industry through benchmarks\
+    \ and metrics, public datasets and best practices."
+  title: "MLCommons\u2122 Unveils Open Datasets and Tools to Drive Democratization\
+    \ of Machine Learning"
+  url: https://mlcommons.org/en/news/neurips21/
+- content: "\u201CWe regularly monitor for this type of activity and will continue\
+    \ to take steps designed to ensure that LastPass, its users, and their data remain\
+    \ protected and secure.\u201D However, late Tuesday night LastPass vice president\
+    \ of product management Dan DeMichele released a statement to The Verge with a\
+    \ more detailed explanation, that says at least some of the alerts were \u201C\
+    likely triggered in error,\u201D due to an issue that LastPass has now resolved.\
+    \ As previously stated, LastPass is aware of and has been investigating recent\
+    \ reports of users receiving e-mails alerting them to blocked login attempts.We\
+    \ quickly worked to investigate this activity and at this time we have no indication\
+    \ that any LastPass accounts were compromised by an unauthorized third-party as\
+    \ a result of this credential stuffing, nor have we found any indication that\
+    \ user\u2019s LastPass credentials were harvested by malware, rogue browser extensions\
+    \ or phishing campaigns. Nikolett Bacso-Albaum, the senior director of LogMeIn\
+    \ Global PR initially told The Verge that the alerts users received were related\
+    \ \u201Cto fairly common bot-related activity,\u201D involving malicious attempts\
+    \ to log in to LastPass accounts using email addresses and passwords that bad\
+    \ actors sourced from past breaches of third-party services (i.e. It is also important\
+    \ to reiterate that LastPass\u2019 zero-knowledge security model means that at\
+    \ no time does LastPass store, have knowledge of, or have access to a users\u2019\
+    \ Master Password(s). \u201CIt\u2019s important to note that we do not have any\
+    \ indication that accounts were successfully accessed or that the LastPass service\
+    \ was otherwise compromised by an unauthorized party,\u201D Basco-Albaum said."
+  title: LastPass says no passwords were compromised following breach scare
+  url: https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare
+- content: "\n      Dec 27, 2021\n       \xB7 by Tim Kamanin\n      \n     I recently\
+    \ released pytailwindcss, a Python package that lets you install the Tailwind\
+    \ CSS executable via pip with just one command: After the installation is complete,\
+    \ use the terminal to run the tailwindcss command: Behind the scenes, it runs\
+    \ a standalone Tailwind CSS build that doesn\u2019t require Node.js to be installed\
+    \ on your system! Hey, if you've found this useful, please share the post to help\
+    \ other folks find it:\n\n \n          \xA9 2009 - 2021 Tim Kamanin."
+  title: You can now use 'pip' to install Tailwind CSS. Node.js is no longer required!
+  url: https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
+- content: "TM has announced that it will replace any Customer Premises Equipment\
+    \ (CPE) for unifi services that have been damaged by... Customers that choose\
+    \ to subscribe to certain unifi Home and unifi Biz fibre plans will now receive\
+    \ Wi-Fi 6 Certified... TM has implemented a new policy whereby Internet disruptions\
+    \ on the unifi service will be solved within 24 hours. UPDATE (26 Dec / 12:15\
+    \ AM):\_ TM has published a notice on its social media channels at 12:00 AM to\
+    \ provide a further update regarding the slow web browsing experience that unifi\
+    \ and Streamyx customers may have faced since Saturday\u2019s afternoon. According\
+    \ to the service alert section of unifi\u2019s website, this is due to submarine\
+    \ cable fault and affects not only fibre users but also mobile and Streamyx customers\
+    \ as well. Through the notice, TM has also revised the estimated recovery time\
+    \ from 11:00 PM on 25 December to 4:00 AM on 26 December as the company optimise\
+    \ its traffic using other international links. While the telco once again didn\u2019\
+    t specifically name the submarine cable that has caused the disruption to its\
+    \ customers, the notice did mention that the fault happened somewhere in North\
+    \ Asia."
+  title: unifi Users Nationwide May Experience Slow Browsing Due To Submarine Cable
+    Fault
+  url: https://www.lowyat.net/2021/261763/unifi-nationwide-slow-browsing-submarine-cable-fault/
+- content: "\n        The \u201CQuite OK Image Format\u201D for fast, lossless image\
+    \ compression\n        Single-file MIT licensed library for C/C++ See qoi.h for\n\
+    the documentation and format specification."
+  title: 'phoboslab
+
+
+    /
+
+
+    qoi
+
+
+    Public'
+  url: https://github.com/phoboslab/qoi
+- content: "Most authors aren\u2019t even particularly aware of which ops they\u2019\
+    re using, since they\u2019re likely to be using a higher-level interface like\
+    \ Keras, so figuring out how to change a model definition to fit with any constraints\
+    \ can be a frustrating and confusing process. I\u2019m outside my area of expertise,\
+    \ and I\u2019d love to hear what other people think about the areas I\u2019m highlighting,\
+    \ I bet I\u2019ll learn something interesting and new from any responses! I hope\
+    \ this post doesn\u2019t sound too much like an Airing of Grievances (though it\
+    \ is December 23rd as I write this), I\u2019m honestly a big fan of all the compiler\
+    \ work that\u2019s been happening in the ML world and I want it to continue growing.\
+    \ So far I\u2019ve focused on \u201Cclassical\u201D deep learning operations,\
+    \ but one of the reasons that there are so many layers is that compute graphs\
+    \ also include a lot of computation that can\u2019t easily be expressed in a mathematical\
+    \ form. Layers like convolution, fully-connected, or activations can be written\
+    \ using a math notation and implemented using a comparatively small number of\
+    \ primitives, and they take up the majority of the compute time, so they\u2019\
+    re often chosen as the first targets by compiler writers."
+  title: Pete Warden's blog
+  url: https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/
+- content: "-- Sets.dsl \ntype Set \npredicate Intersecting : Set s1 * Set s2\npredicate\
+    \ IsSubset : Set s1 * Set s2 \npredicate Not : Prop p \nnotation \"A \u2282 B\"\
+    \ ~ \"IsSubset(A, B)\" \nnotation \"A \u2229 B = \u2205\" ~ \"Not(Intersecting(A,\
+    \ B))\" \n \n        -- Sets.sub \nSet A, B, C, D, E, F, G  \n        B \u2282\
+    \ A \n        C \u2282 A \n        D \u2282 B \n        E \u2282 B \n        F\
+    \ \u2282 C  \n        G \u2282 C \n        E \u2229 D = \u2205  \n        F \u2229\
+    \ G = \u2205  \n        B \u2229 C = \u2205 \n       \n        -- Sets-Disks.sty\
+    \ \nforall Set x {\n       \n        }  \n \nforall Set x; Set y \nwhere IsSubset(x,\
+    \ y) { \n \n        }  \n \nforall Set x; Set y \nwhere NotIntersecting(x, y)\
+    \ { \n \n        }  \n Fig. -- Injection.sub\nSet A, B\n    f: A -> B\nInjection(f)\n\
+    Not(Surjection(f))\n \n    -- Surjection.sub\nSet A, B\n    f: A -> B\nSurjection(f)\n\
+    Not(Injection(f))\n \n    -- Bijection.sub\nSet A, B\n    f: A -> B\nSurjection(f)\n\
+    Injection(f)\n Fig. SimplicialComplex K \nEdge e \u2208 K\n\nSubcomplex E \u2286\
+    \ K\n      E := Closure(e) \n\nSimplicialSet StE \u2286 K \n      StE := Star(E)\
+    \ \n\nSubcomplex ClStE \u2286 K\n      ClStE := Closure(StE) \n\nSubcomplex ClE\
+    \ \u2286 K\n      ClE := Closure(E) \n\nSimplicialSet StClE \u2286 K \n      StClE\
+    \ := Star(ClE) \n\nSimplicialSet LkE \u2286 K\n      LkE := SetMinus(ClStE, StClE)\n\
+    \ Fig. Point p, q, r, s\nSegment a := {p, q}\nSegment b := {p, r}\nPoint m :=\
+    \ Midpoint(a)\nAngle theta := \u2220(q, p, r)\nTriangle t := {p, r, s}\nRay w\
+    \ := Bisector(theta)\nRay h := PerpendicularBisector(a)\n Fig. Different Style\
+    \ programs not only tweak the visual style (e.g., flat vs. shaded disks), but\
+    \ allow one to use a completely different visual representation (e.g., a tree\
+    \ showing set inclusions)."
+  title: 'Penrose: from mathematical notation to beautiful diagrams'
+  url: https://penrose.ink/siggraph20.html
+- content: "Maui Shell is a convergent (read: adaptable to multiple form factors)\
+    \ desktop shell (read: interchangeable definition to refer to the graphical workspace\
+    \ of an operating system, not referring to the desktop form factor specifically\
+    \ or exclusively; also see \u201CPaper paradigm\u201D). Not to be confused with\
+    \ a Unix shell (read: command-line interpreter or shell that provides a command-line\
+    \ user interface for Unix-like operating systems, i.e., Bash; and not to be confused\
+    \ with the shell scripting language (read: A shell script is a computer program\
+    \ designed to be run by the Unix shell, a command-line interpreter.) A \u2018\
+    desktop shell\u2019 is but one of the components of a desktop environment (read:\
+    \ an implementation of the desktop metaphor made of a bundle of programs running\
+    \ on top of a computer operating system that shares a standard graphical user\
+    \ interface). If you slide from the left side of the top panel, you open the notifications\
+    \ and calendar, and if you slide from the right, you open the status and quick\
+    \ settings toggles. Each section has sub-items, called PanelItem, which can have\
+    \ Cards associated with them: For example, the left PanelSection has two PanelItems:\
+    \ Notifications and Calendar, Notifications which is a\_PanelItem has its Card,\
+    \ and so does the calendar."
+  title: Introducing Maui Shell
+  url: https://nxos.org/maui/introducing-maui-shell/
