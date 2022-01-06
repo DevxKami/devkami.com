@@ -6,46 +6,46 @@ links:
 - description: ''
   title: JavaScript is not available.
   url: 'https://twitter.com/b0rk/status/1471158826288226306 '
-- description: "[2]\n \n The following is excerpted from the applicant's response to question\
-    \ #18:\n \"The proposed gTLD will provide the marketplace with direct association\
-    \ to the term, \u02BAmeme.\u02BA  The term \u02BAmeme\u02BA connotes the echoing\
-    \ of a cultural idea, and was coined by Richard Dawkins in his book, \u02BAThe\
-    \ Selfish Gene.\u02BA  In the context of the .meme gTLD, the mission of the gTLD\
-    \ to provide a dedicated domain space in which registrants can enact second-level\
-    \ domains related to viral phenomenon, ideas, images, and videos."
+- description: "[2]\n \n The following is excerpted from the applicant's response\
+    \ to question #18:\n \"The proposed gTLD will provide the marketplace with direct\
+    \ association to the term, \u02BAmeme.\u02BA  The term \u02BAmeme\u02BA connotes\
+    \ the echoing of a cultural idea, and was coined by Richard Dawkins in his book,\
+    \ \u02BAThe Selfish Gene.\u02BA  In the context of the .meme gTLD, the mission\
+    \ of the gTLD to provide a dedicated domain space in which registrants can enact\
+    \ second-level domains related to viral phenomenon, ideas, images, and videos."
   title: .meme
   url: https://icannwiki.org/.meme
-
 - description: ''
   title: Writing
   url: https://rachelbythebay.com/w/2022/01/01/baddate/
-- description: "The workload contains three query types (CPU and memory bound, IO and\
-    \ memory bound, and CPU-bound) - ghOSt is able to reduce tail-latency for the\
-    \ first two types of requests, but doesn\u2019t have a huge impact for the thirdThe\
-    \ paper does note that it is possible to impact compute bound tasks by extending\
-    \ the ghOSt policy with similar logic to what Linux\u2019s CFS contains around\
-    \ nice values. . What stood out to me the most about this section is actually\
+- description: "The workload contains three query types (CPU and memory bound, IO\
+    \ and memory bound, and CPU-bound) - ghOSt is able to reduce tail-latency for\
+    \ the first two types of requests, but doesn\u2019t have a huge impact for the\
+    \ thirdThe paper does note that it is possible to impact compute bound tasks by\
+    \ extending the ghOSt policy with similar logic to what Linux\u2019s CFS contains\
+    \ around nice values. . What stood out to me the most about this section is actually\
     \ ghOSt\u2019s impact on developer productivity: When developing a kernel scheduler,\
     \ the write-test-write cycle includes (a) compiling a kernel (up to 15 minutes),\
     \ (b) deploying the kernel (10-20 minutes), and (c) running the test (1 hour due\
     \ to database initialization following a reboot)."
   title: 'ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling'
   url: https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html
-- description: Property Value Server OS RELEASE.2021-12-29T06-52-55Z MinIO Version RELEASE.2021-12-29T06-49-06Z
-    Benchmark Tool mc admin speedtest Speedtest is built into the MinIO Server and
-    is accessed through the Console UI or mc admin speedtest command.
+- description: Property Value Server OS RELEASE.2021-12-29T06-52-55Z MinIO Version
+    RELEASE.2021-12-29T06-49-06Z Benchmark Tool mc admin speedtest Speedtest is built
+    into the MinIO Server and is accessed through the Console UI or mc admin speedtest
+    command.
   title: 'Updated NVMe Benchmark: 2.6Tbps+ for READS'
   url: https://blog.min.io/nvme_benchmark/
-- description: "Nvidia isn\u2019t sharing these details today, so we\u2019ll have to wait\
-    \ on detailed reviews to see how well this card performs against the RTX 3090\
-    \ and AMD\u2019s Radeon RX 6900 XT."
+- description: "Nvidia isn\u2019t sharing these details today, so we\u2019ll have\
+    \ to wait on detailed reviews to see how well this card performs against the RTX\
+    \ 3090 and AMD\u2019s Radeon RX 6900 XT."
   title: Nvidia announces RTX 3090 Ti with faster memory and performance
   url: https://www.theverge.com/2022/1/4/22866454/nvidia-geforce-rtx-3090-ti-specifications-release-date-price-ces-2022
-- description: "I\u2019ve now scratched my own itch, but I\u2019m hoping that this code\
-    \ will help introduce more people to the amazing advances in open source voice\
-    \ technology that have been happening over the last few years, and also help increase\
-    \ the number of people donating their voices to Common Voice, since none of this\
-    \ could have happened without Mozilla\u2019s groundbreaking efforts."
+- description: "I\u2019ve now scratched my own itch, but I\u2019m hoping that this\
+    \ code will help introduce more people to the amazing advances in open source\
+    \ voice technology that have been happening over the last few years, and also\
+    \ help increase the number of people donating their voices to Common Voice, since\
+    \ none of this could have happened without Mozilla\u2019s groundbreaking efforts."
   title: Pete Warden's blog
   url: https://petewarden.com/2022/01/06/launching-spchcat-an-open-source-speech-recognition-tool-for-linux-and-raspberry-pi/
 - description: ''
@@ -56,6 +56,13 @@ links:
   title: LLVM Enjoyed Record Growth In 2021, Many Exciting Compiler Advancements -
     Phoronix
   url: https://www.phoronix.com/scan.php?page=news_item&px=LLVM-Record-Growth-2021
-- description: How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)
-  title: How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)
+- description: How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale,
+    Semi-Automated Go GC Tuning @Uber)
+  title: How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale,
+    Semi-Automated Go GC Tuning @Uber)
   url: https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/
+- description: Norton, a large and sometimes controversial cybersecurity company,
+    has recently released Norton Crypto as part of Norton 360, which allows users
+    to mine the Ethereum cryptocurrency while their computer remains idle.
+  title: Once Opted Into Norton Crypto, You Can't Easily Uninstall | Digital Trends
+  url: https://www.digitaltrends.com/computing/no-easy-way-to-uninstall-norton-crypto/
