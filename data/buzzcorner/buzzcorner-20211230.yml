@@ -1,5 +1,5 @@
 links:
-- content: "CYBERTEC PostgreSQL International GmbH R\xF6merstra\xDFe 19 2752 W\xF6\
+- description: "CYBERTEC PostgreSQL International GmbH R\xF6merstra\xDFe 19 2752 W\xF6\
     llersdorf AUSTRIA +43 (0) 2622 93022-0 office@cybertec.at twitter.com/PostgresSupport\
     \ github.com/cybertec-postgresql  \u2022 Administration \u2022 Replication \u2022\
     \ Consulting \u2022 Database Design \u2022 Support \u2022 Migration \u2022 Development\
@@ -9,7 +9,7 @@ links:
     \ year 2000."
   title: Getting started with QGIS, PostgreSQL and PostGIS
   url: https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/
-- content: "It was easier than I thought to create a mail server that works as well\
+- description: "It was easier than I thought to create a mail server that works as well\
     \ as Gmail\u2019s, and now really happy that I\u2019m one of those weirdos that\
     \ hosts their own mail server. I\u2019m a bit of a privacy geek, but it wasn\u2019\
     t the driving force behind me owning the infra - but still the thought of all\
@@ -24,13 +24,13 @@ links:
     \ React application written in ES6."
   title: Deploy a Gmail-like email server in 30 (ish) minutes
   url: https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/
-- content: The vscode extension shows a guessed (or explicitly written in a RBS file)
+- description: The vscode extension shows a guessed (or explicitly written in a RBS file)
     method signature above each method definition, draws a red underline under the
     code that may cause a name error or type error, and completes method names (i.e.,
     shows method candidates).
   title: Ruby
   url: https://www.ruby-lang.org/en/news/2021/12/25/ruby-3-1-0-released/
-- content: "The Motorola Envoy\u2019s smart desktop was way ahead of its time\u2014\
+- description: "The Motorola Envoy\u2019s smart desktop was way ahead of its time\u2014\
     until it wasn\u2019t  Introduced in 1994, the Motorola Envoy used a groundbreaking\
     \ operating system created by Apple spinoff General Magic. A competitor to the\
     \ Motorola Envoy that also used Magic Cap, Sony\u2019s Magic Link, had a phone\
@@ -48,7 +48,7 @@ links:
     \ yet realize what that meant."
   title: In 1989, General Magic Saw the Future of Smartphones
   url: https://spectrum.ieee.org/general-magic-motorola-envoy
-- content: "\u201CThanks to the shared efforts by the community, including the work\
+- description: "\u201CThanks to the shared efforts by the community, including the work\
     \ initiated by the MLCommons Association and its members, the movement demonstrates\
     \ the potential for Data-Centric AI, and how we can collectively implement a greater\
     \ AI adoption.\u201D \u201CSpeech technology can empower billions of people across\
@@ -74,7 +74,7 @@ links:
   title: "MLCommons\u2122 Unveils Open Datasets and Tools to Drive Democratization\
     \ of Machine Learning"
   url: https://mlcommons.org/en/news/neurips21/
-- content: "\u201CWe regularly monitor for this type of activity and will continue\
+- description: "\u201CWe regularly monitor for this type of activity and will continue\
     \ to take steps designed to ensure that LastPass, its users, and their data remain\
     \ protected and secure.\u201D However, late Tuesday night LastPass vice president\
     \ of product management Dan DeMichele released a statement to The Verge with a\
@@ -98,7 +98,7 @@ links:
     \ was otherwise compromised by an unauthorized party,\u201D Basco-Albaum said."
   title: LastPass says no passwords were compromised following breach scare
   url: https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare
-- content: "\n      Dec 27, 2021\n       \xB7 by Tim Kamanin\n      \n     I recently\
+- description: "\n      Dec 27, 2021\n       \xB7 by Tim Kamanin\n      \n     I recently\
     \ released pytailwindcss, a Python package that lets you install the Tailwind\
     \ CSS executable via pip with just one command: After the installation is complete,\
     \ use the terminal to run the tailwindcss command: Behind the scenes, it runs\
@@ -107,7 +107,7 @@ links:
     \ other folks find it:\n\n \n          \xA9 2009 - 2021 Tim Kamanin."
   title: You can now use 'pip' to install Tailwind CSS. Node.js is no longer required!
   url: https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
-- content: "TM has announced that it will replace any Customer Premises Equipment\
+- description: "TM has announced that it will replace any Customer Premises Equipment\
     \ (CPE) for unifi services that have been damaged by... Customers that choose\
     \ to subscribe to certain unifi Home and unifi Biz fibre plans will now receive\
     \ Wi-Fi 6 Certified... TM has implemented a new policy whereby Internet disruptions\
@@ -126,7 +126,7 @@ links:
   title: unifi Users Nationwide May Experience Slow Browsing Due To Submarine Cable
     Fault
   url: https://www.lowyat.net/2021/261763/unifi-nationwide-slow-browsing-submarine-cable-fault/
-- content: "\n        The \u201CQuite OK Image Format\u201D for fast, lossless image\
+- description: "\n        The \u201CQuite OK Image Format\u201D for fast, lossless image\
     \ compression\n        Single-file MIT licensed library for C/C++ See qoi.h for\n\
     the documentation and format specification."
   title: 'phoboslab
@@ -140,7 +140,7 @@ links:
 
     Public'
   url: https://github.com/phoboslab/qoi
-- content: "Most authors aren\u2019t even particularly aware of which ops they\u2019\
+- description: "Most authors aren\u2019t even particularly aware of which ops they\u2019\
     re using, since they\u2019re likely to be using a higher-level interface like\
     \ Keras, so figuring out how to change a model definition to fit with any constraints\
     \ can be a frustrating and confusing process. I\u2019m outside my area of expertise,\
@@ -158,7 +158,7 @@ links:
     re often chosen as the first targets by compiler writers."
   title: Pete Warden's blog
   url: https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/
-- content: "-- Sets.dsl \ntype Set \npredicate Intersecting : Set s1 * Set s2\npredicate\
+- description: "-- Sets.dsl \ntype Set \npredicate Intersecting : Set s1 * Set s2\npredicate\
     \ IsSubset : Set s1 * Set s2 \npredicate Not : Prop p \nnotation \"A \u2282 B\"\
     \ ~ \"IsSubset(A, B)\" \nnotation \"A \u2229 B = \u2205\" ~ \"Not(Intersecting(A,\
     \ B))\" \n \n        -- Sets.sub \nSet A, B, C, D, E, F, G  \n        B \u2282\
@@ -183,7 +183,7 @@ links:
     \ showing set inclusions)."
   title: 'Penrose: from mathematical notation to beautiful diagrams'
   url: https://penrose.ink/siggraph20.html
-- content: "Maui Shell is a convergent (read: adaptable to multiple form factors)\
+- description: "Maui Shell is a convergent (read: adaptable to multiple form factors)\
     \ desktop shell (read: interchangeable definition to refer to the graphical workspace\
     \ of an operating system, not referring to the desktop form factor specifically\
     \ or exclusively; also see \u201CPaper paradigm\u201D). Not to be confused with\
