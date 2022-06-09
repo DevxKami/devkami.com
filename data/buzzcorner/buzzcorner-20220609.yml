@@ -1,0 +1,17 @@
+links:
+  - title: Fabless chip building with open source tools
+    url: https://efabless.com/open_shuttle_program
+  - title: Brainfuck IDE
+    url: https://github.com/LovetheFrogs/BrainIDE
+  - title: Docker extension
+    url: https://docs.docker.com/desktop/extensions-sdk/
+  - title: Jetbrains UI Preview
+    url: https://blog.jetbrains.com/idea/2022/05/take-part-in-the-new-ui-preview-for-your-jetbrains-ide/
+  - title: K6 load test tools
+    url: https://github.com/grafana/k6
+  - title: Macaw is a deep learning models for  QA
+    url: https://github.com/allenai/macaw
+  - title: Another js framework
+    url: https://www.solidjs.com/
+  - title: Cloud forensic util from google
+    url: https://github.com/google/cloud-forensics-utils
