@@ -1,0 +1,24 @@
+links:
+  - title: Postgresql update that fix silent index corruption
+    url: https://www.migops.com/blog/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/
+  - title: XBOX 360 Architecture
+    url: https://www.copetti.org/writings/consoles/xbox-360/
+  - title: Polariod SX70 and chip war
+    url: https://spectrum.ieee.org/polaroid-sx-70
+  - title: Linux pipe speed
+    url: https://mazzo.li/posts/fast-pipes.html
+  - title: Animate Regex with python and graphviz
+    url: https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a
+  - title: Symbiote malware
+    url: https://www.theregister.com/2022/06/10/symbiote_linux_malware/
+  - title: Python algorithm collection
+    url: https://github.com/TheAlgorithms/Python
+  - title: hertzbleed
+    url: https://www.hertzbleed.com/
+  - title: zincsearch
+    url: https://zincsearch.com/
+  - title: BPFDoor
+    url: https://doublepulsar.com/bpfdoor-an-active-chinese-global-surveillance-tool-54b078f1a896
+  - title: nginx config generator
+    url: https://github.com/digitalocean/nginxconfig.io
+
