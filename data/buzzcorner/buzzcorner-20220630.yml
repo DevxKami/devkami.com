@@ -1,0 +1,35 @@
+links:
+  - title: Storehub got hacked
+    url: https://www.safetydetectives.com/news/storehub-leak-report/
+  - title: Python 3.11 speed improvement
+    url: https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks&num=1
+  - title: DNY Toys
+    url: https://www.dns.toys/
+  - title: TTS with minimal data
+    url: https://15.ai/
+  - title: Tokenization over captcha
+    url: https://medium.com/asecuritysite-when-bob-met-alice/goodbye-and-good-riddens-to-captcha-and-hello-to-tokenization-cd10544162
+  - title: wasmer
+    url: https://wasmer.io/
+  - title: Luhn Algorithm
+    url: https://en.m.wikipedia.org/wiki/Luhn_algorithm
+  - title: Copilot entering GA
+    url: https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/
+  - title: Cantonese NLP with python
+    url: https://pycantonese.org/
+  - title: Stackoverflow dev survey
+    url: https://survey.stackoverflow.co/2022/#overview
+  - title: Amazon release alternative to copilot
+    url: https://www.zdnet.com/article/amazon-debuts-codewhisperer-its-ml-powered-coding-companion/
+  - title: sqlite 4 design
+    url: https://sqlite.org/src4/doc/trunk/www/design.wiki
+  - title: snyk state of open source security
+    url: https://snyk.io/reports/open-source-security/
+  - title: Social engineering report
+    url: https://www.proofpoint.com/us/resources/threat-reports/2022-social-engineering-report
+  - title: Space hardware get update
+    url: https://www.neowin.net/news/windows-98-system-inside-esas-mars-water-finder-is-finally-getting-an-upgrade/
+  - title: Raspberry pico get wireless upgrade
+    url: https://www.raspberrypi.com/news/raspberry-pi-pico-w-your-6-iot-platform/
+  - title: Writing own OS
+    url: https://hackaday.com/2022/06/11/homebrew-an-os-from-scratch-snowdrop-shows-how-its-done/
