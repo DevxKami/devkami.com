@@ -92,10 +92,16 @@ LanguageCode = "en-us"
     url = "communities/"
     weight = 4
 
+    [[menu.main]]
+    name = "Books"
+    url = "books/"
+    weight = 5
+
+
 [[menu.main]]
     name = "About"
     url = "page/about/"
-    weight = 5
+    weight = 6
 
 # [[menu.main]]
 #     identifier = "samples"
