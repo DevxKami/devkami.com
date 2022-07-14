@@ -1,0 +1,31 @@
+links:
+  - title: Stackoverflow architecture
+    url: https://twitter.com/alexcwatt/status/1544876135711916035
+  - title: Picosnitch
+    url: https://github.com/elesiuta/picosnitch
+  - title: jetbrain price increase
+    url: https://blog.jetbrains.com/blog/2022/06/29/increased-subscription-pricing-for-ides-net-tools-and-the-all-products-pack/
+  - title: Custom SQL function for postgres
+    url: https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/
+  - title: History of lossless compression
+    url: https://ethw.org/History_of_Lossless_Data_Compression_Algorithms
+  - title: YOLO Six
+    url: https://dagshub.com/blog/yolov6/
+  - title: Chess Engine from zero to one
+    url: https://www.chessengines.org/
+  - title: SQLite index recommendation
+    url: https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_
+  - title: vs code server
+    url: https://www.youtube.com/watch?v=q2viJSYyKio&ab_channel=VisualStudioCode
+  - title: more speculative execution attack
+    url: https://arstechnica.com/information-technology/2022/07/intel-and-amd-cpus-vulnerable-to-a-new-speculative-execution-attack/
+  - title: postgresql internal
+    url: https://postgrespro.com/community/books/internals
+  - title: Openssl security issue
+    url: https://www.infoq.com/news/2022/07/openssl-3-0-5-vulnerability-fix/
+  - title: Open Food Facts
+    url: https://world.openfoodfacts.org/
+  - title: ssh cheatsheets
+    url: https://www.marcobehler.com/guides/ssh-cheat-sheet
+  - title: Copy text from any image
+    url: https://projectnaptha.com/
