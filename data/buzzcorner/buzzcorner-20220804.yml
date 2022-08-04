@@ -1,0 +1,31 @@
+links:
+  - title: Bank Islam choose AWS
+    url: https://www.theedgemarkets.com/article/bank-islam-picks-amazon-web-services-cloud-provider
+  - title: Sony App uses DALL-E 2
+    url: https://petapixel.com/2022/08/01/quantum-mirror-sony-camera-app-uses-dall-e-2-to-reimagine-photos/
+  - title: DALL-E 2 prompt book
+    url: http://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book-v1.02.pdf
+  - title: Punch card emulator
+    url: http://www.kloth.net/services/cardpunch.php
+  - title: Linus uses Apple M2 for merging kernel
+    url: https://lwn.net/Articles/903033/
+  - title: Zig on cloudflare worker
+    url: https://blog.cloudflare.com/running-zig-with-wasi-on-cloudflare-workers/
+  - title: Software Architecture a quick guide for startup
+    url: https://www.cockroachlabs.com/blog/startup-reference-architecture/
+  - title: Malicious code on github
+    url: https://twitter.com/stephenlacy/status/1554697077430505473?s=21&t=Lkmah1DMJwBXpOC1PE_ubw
+  - title: Serverless DNS
+    url: https://github.com/serverless-dns/serverless-dns
+  - title: Photogrammetry guide
+    url: https://github.com/mikeroyal/Photogrammetry-Guide
+  - title: List of big models
+    url: https://github.com/OpenBMB/BMList
+  - title: sqlite-html extension for manipulating html
+    url: https://github.com/asg017/sqlite-html
+  - title: Web containers is now on firefox
+    url: https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/
+  - title: Turing Award winner of 2021
+    url: https://spectrum.ieee.org/2021-turing-award-winner
+  - title: Multitenant row level security
+    url: https://www.thenile.dev/blog/multi-tenant-rls
