@@ -1,0 +1,45 @@
+links:
+  - title: 37 hardware firmware vuln
+    url: https://www.csoonline.com/article/3410046/hardware-and-firmware-vulnerabilities-a-guide-to-the-threats.html
+  - title: Firmware Reverse Engineering tool
+    url: https://github.com/redballoonsecurity/ofrak
+  - title: Terminal workspace with battery
+    url: https://zellij.dev/
+  - title: How SQLite do ACID
+    url: https://fly.io/blog/sqlite-internals-rollback-journal/
+  - title: tmate
+    url: https://tmate.io/
+  - title: ms open source 3d emoji
+    url: https://www.theverge.com/2022/8/10/23299527/microsoft-emoji-open-source-creators
+  - title: pypi package drop cryptominer
+    url: https://thehackernews.com/2022/08/newly-uncovered-pypi-package-drops.html
+  - title: sqlite is not a toy db
+    url: https://antonz.org/sqlite-is-not-a-toy-database/
+  - title: Stable diffusion
+    url: https://github.com/CompVis/stable-diffusion
+  - title: Standard ebooks
+    url: https://standardebooks.org/
+  - title: Python progress bar
+    url: https://github.com/AnnikaV9/lowbar
+  - title: DO Drop mailchimp
+    url: https://www.theregister.com/2022/08/16/digital_ocean_dumps_mailchimp/
+  - title: pip package audit
+    url: https://lwn.net/SubscriberLink/904197/9f5cc13b3c352127/
+  - title: dotnet 6 on ubuntu
+    url: https://devblogs.microsoft.com/dotnet/dotnet-6-is-now-in-ubuntu-2204/
+  - title: Happy birthday gnome
+    url: https://happybirthdaygnome.org/
+  - title: AWS SSO Utils
+    url: https://github.com/benkehoe/aws-sso-util
+  - title: mc terminal vulnerability
+    url: https://hackaday.com/2022/07/25/mcterminals-give-the-hamburglar-a-chance/
+  - title: github iam solutions
+    url: https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/
+  - title: Realtek flaw
+    url: https://www.bleepingcomputer.com/news/security/exploit-out-for-critical-realtek-flaw-affecting-many-networking-devices/
+  - title: Mac zero day
+    url: https://support.apple.com/en-us/HT213413
+  - title: authorizer dev
+    url: https://authorizer.dev/
+  - title: GPU price drop
+    url: https://www.tomshardware.com/news/nvidia-to-further-drop-prices-of-geforce-rtx-30-series-boards
