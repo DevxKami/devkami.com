@@ -1,0 +1,21 @@
+links:
+  - title: Kubenetes access manager
+    url: https://github.com/paralus/paralus
+  - title: ignite a firecracker vm
+    url: https://github.com/weaveworks/ignite
+  - title: Divide without division operator
+    url: https://www.joeantonakakis.com/posts/divide-without-division-operator/
+  - title: workerd run time
+    url: https://blog.cloudflare.com/workerd-open-source-workers-runtime/
+  - title: Whisper
+    url: https://openai.com/blog/whisper/
+  - title: Snakeware
+    url: https://github.com/joshiemoore/snakeware
+  - title: Mynog
+    url:  https://www.slideshare.net/mynog
+  - title: HITB SG
+    url: https://youtube.com/playlist?list=PLmv8T5-GONwRu8F1SgdBjP6XydFJipKoa
+  - title: Cloudflare fund
+    url: https://techcrunch.com/2022/09/27/cloudflare-takes-aim-at-aws-with-promise-of-1-25-billion-to-startups-that-use-its-own-platform/
+  - title: Chaos malware
+    url: https://blog.lumen.com/chaos-is-a-go-based-swiss-army-knife-of-malware/
