@@ -17,4 +17,17 @@ links:
     url: https://www.datacamp.com/tutorial/sqlalchemy-tutorial-examples
   - title: Python libraries
     url: https://python.plainenglish.io/10-python-scripts-for-automation-f8904f05fc5f
-  - 
+  - title: Reinforcement learning checker
+    url: https://blog.paperspace.com/building-a-checkers-gaming-agent-using-neural-networks-and-reinforcement-learning/
+  - title: Redbox mail sender
+    url: https://github.com/Miksus/red-box
+  - title: GPT3 control browser
+    url: https://github.com/nat/natbot
+  - title: python webapp to lambda
+    url: https://til.simonwillison.net/awslambda/asgi-mangum
+  - title: difftastic 
+    url: https://github.com/wilfred/difftastic
+  - title: make a video
+    url: https://makeavideo.studio/
+  - title: Trusting trust
+    url: https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/
