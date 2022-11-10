@@ -1,0 +1,26 @@
+links:
+  - title: pgmetrics
+    url: https://pgmetrics.io/
+  - title: SAO Style VR 
+    url: https://palmerluckey.com/if-you-die-in-the-game-you-die-in-real-life/
+  - title: Self hosted docker registy
+    url: https://blog.aawadia.dev/2022/11/02/docker-registry-ci/
+  - title: Postgresql 15
+    url: https://www.postgresql.org/about/news/postgresql-15-released-2526/
+  - title: Python 3.11 speedup
+    url: https://log.beshr.com/python-311-speedup-part-1/
+  - title: Platform engineering
+    url: https://www.honeycomb.io/blog/future-ops-platform-engineering
+  - title: Code like SRE
+    url: https://www.willett.io/posts/precepts/
+  - title: Python 3.11
+    url: https://www.python.org/downloads/release/python-3110/
+  - title: Future of tensorflow
+    url: https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html
+  - title: Maintain engineering velocity while scal
+    url: https://www.ycombinator.com/blog/how-to-maintain-engineering-velocity-as-you-scale/
+  - title: Primer on cryptography
+    url: https://auth0.com/blog/a-primer-on-cryptography/
+  - title: i486 may drop from linux
+    url: https://www.phoronix.com/news/Intel-i486-Linux-Possible-Drop
+
