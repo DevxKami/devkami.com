@@ -1,0 +1,19 @@
+links: 
+  - title: SPR data on sale
+    url: https://www.lowyat.net/2022/288519/myspr-ekyc-database-on-sale/
+  - title: New API
+    url: https://thehackernews.com/2022/11/new-earth-longzhi-apt-targets-ukraine.html
+  - title: Architectural mistakes
+    url: https://twitter.com/jasoncwarner/status/1592227285024636928
+  - title: Cloudflare log engine
+    url: https://blog.cloudflare.com/announcing-logs-engine/
+  - title: Spotify RCE
+    url: https://thehackernews.com/2022/11/critical-rce-flaw-reported-in-spotifys.html
+  - title: POstgresql remote control
+    url: https://github.com/dalibo/temboard
+  - title: pg activity
+    url: https://github.com/dalibo/pg_activity
+  - title: Python asyncio guide
+    url: https://superfastpython.com/python-asyncio/
+  - title: Micropython on arduino
+    url: https://docs.arduino.cc/micropython/
