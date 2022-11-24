@@ -1,0 +1,23 @@
+links: 
+  - title: sso reporter
+    url: https://github.com/onemorepereira/aws-sso-reporter
+  - title: RIP Fred Brooks
+    url: https://twitter.com/stevebellovin/status/1593414068634734592
+  - title: VMWare Fusion 13
+    url: https://blogs.vmware.com/teamfusion/2022/11/fusion-13-pro-and-player-are-here.html
+  - title: Air Asia Data Breach
+    url: https://www.lowyat.net/2022/289084/daixin-airasia-hack-databreach/
+  - title: Tailscale RCE
+    url: https://emily.id.au/tailscale
+  - title: Stable diffsion 2.0
+    url: https://stability.ai/blog/stable-diffusion-v2-release
+  - title: George Hots Join twitter
+    url:  https://techcrunch.com/2022/11/21/george-hotz-hacker-and-long-time-frenemy-of-elon-musk-signs-on-for-12-weeks-at-twitter/
+  - title: Time with GPS
+    url: https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/
+  - title: Distributed computing manifesto
+    url: https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
+  - title: Deepfake detector
+    url: https://www.intel.com/content/www/us/en/newsroom/news/intel-introduces-real-time-deepfake-detector.html#gs.j25biu
+  - title: SpyGuard
+    url: https://github.com/SpyGuard/SpyGuard
