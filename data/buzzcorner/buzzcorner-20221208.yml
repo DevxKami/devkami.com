@@ -1,0 +1,24 @@
+links:
+  - title: Mediatek and samsung key compromised
+    url: https://bugs.chromium.org/p/apvi/issues/detail?id=100
+  - title: Pos Malaysia to go AWS
+    url: https://techwireasia.com/2022/12/pos-malaysia-goes-all-in-on-aws-to-drive-business-transformation/
+  - title: Malware in russia
+    url: https://arstechnica.com/information-technology/2022/12/never-before-seen-malware-is-nuking-data-in-russias-courts-and-mayors-offices/
+  - title: Mobile security framework
+    url: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+  - title: Visual studio RCE
+    url: https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m
+  - title: Training on Small System
+    url: https://github.com/mit-han-lab/tiny-training
+  - title: VS Code remove development
+    url: https://code.visualstudio.com/blogs/2022/12/07/remote-even-better
+  - title: Train image detection for small system
+    url: https://colab.research.google.com/github/ArmDeveloperEcosystem/ml-image-classification-example-for-openmv/blob/main/notebook.ipynb#scrollT[…]LvrIOMF
+  - title: toy os found in community
+    url: https://github.com/RechieKho/piko-piko
+  - title: fosshost shutting down
+    url: https://www.bleepingcomputer.com/news/technology/open-source-software-host-fosshost-shutting-down-as-ceo-unreachable/
+  - title: Freebsd vulnerability
+    url: https://wololo.net/2022/12/03/more-freebsd-vulnerabilities-reported-most-likely-impact-ps4-and-ps5/
+
