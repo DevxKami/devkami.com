@@ -1,0 +1,21 @@
+links:
+  - title: SQLAlchemy 2.0
+    url: https://blog.miguelgrinberg.com/post/what-s-new-in-sqlalchemy-2-0
+  - title: AWS Malaysia Region soon
+    url: https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-malaysia/
+  - title: RIP Abraham Lempel
+    url: https://www.ynetnews.com/business/article/hjdfzoa2o
+  - title: Explain Analyze
+    url: https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
+  - title: Curl book
+    url: https://github.com/bagder/uncurled
+  - title: Godot 4.0
+    url: https://github.com/godotengine/godot/releases/tag/4.0-stable
+  - title: Gitlab price hike
+    url: https://vocal.media/01/git-lab-raises-prices-for-premium-customers-by-more-than-50-percent
+  - title: ChatGPT API
+    url: https://openai.com/blog/introducing-chatgpt-and-whisper-apis
+  - title: Single engineer took down twitter
+    url: https://www.platformer.news/p/how-a-single-engineer-brought-down?
+  - title: DDoS detection with Akvorado and Flowspec
+    url: https://vincent.bernat.ch/en/blog/2023-akvorado-ddos-flowspec
