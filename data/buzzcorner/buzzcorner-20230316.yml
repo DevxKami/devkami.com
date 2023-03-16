@@ -7,3 +7,9 @@ links:
     url: https://github.com/microsoft/visual-chatgpt
   - title: Docker private repo
     url: https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf
+  - title: Linux Privilege Escalation Script
+    url: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
+  - title: Data surgeon
+    url: https://github.com/Drew-Alleman/DataSurgeon
+  - title: pg anonymize
+    url: https://github.com/rjuju/pg_anonymize
