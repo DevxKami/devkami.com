@@ -1,0 +1,9 @@
+links:
+  - title: GPT-4 launch
+    url: https://openai.com/research/gpt-4
+  - title: llamma
+    url: https://github.com/ggerganov/llama.cpp
+  - title: visual chatgpt
+    url: https://github.com/microsoft/visual-chatgpt
+  - title: Docker private repo
+    url: https://web.docker.com/rs/790-SSB-375/images/privatereposfaq.pdf
