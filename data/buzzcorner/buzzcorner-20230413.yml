@@ -1,0 +1,27 @@
+links:
+  - title: AWS Amplify is a grift
+    url: https://samthor.au/2023/aws-amplify-is-a-grift/
+  - title: Linux vm for apple silicon
+    url: https://github.com/cirruslabs/tart
+  - title: awsesome decentralized llm
+    url: https://github.com/imaurer/awesome-decentralized-llm
+  - title: Origin of sharding
+    url: https://www.raphkoster.com/2009/01/08/database-sharding-came-from-uo/
+  - title: js algorithms
+    url: https://github.com/trekhleb/javascript-algorithms
+  - title: Postgresql logical replication gotchas
+    url: https://pgdash.io/blog/postgres-replication-gotchas.html
+  - title: Dolly open LLM
+    url: https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+  - title: Ways to build llm
+    url: https://github.com/stochasticai/xturing
+  - title: chat gpt retrieval plugin
+    url: https://github.com/openai/chatgpt-retrieval-plugin
+  - title: e2b
+    url: https://github.com/e2b-dev/e2b
+  - title: mysql explains
+    url: https://planetscale.com/blog/how-read-mysql-explains
+  - title: Open Playground ways to run llm on laptop
+    url: https://github.com/nat/openplayground
+  - title: Grounding Dino
+    url: https://github.com/IDEA-Research/GroundingDINO
