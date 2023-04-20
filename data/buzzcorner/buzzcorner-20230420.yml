@@ -1,0 +1,40 @@
+links:
+  - title: PDF Tools
+    url: https://www.bitsgalore.org/2021/09/06/pdf-processing-and-analysis-with-open-source-tools
+  - title: Localstack 2.0
+    url: https://www.infoq.com/news/2023/04/localstack-aws-version-two-ga/
+  - title: Stack exchange future with AI
+    url: https://meta.stackexchange.com/questions/388401/new-blog-post-from-our-ceo-prashanth-community-is-the-future-of-ai
+  - title: Strong Opinions Loosely Held
+    url: https://blog.glowforge.com/strong-opinions-loosely-held-might-be-the-worst-idea-in-tech/
+  - title: Duckduck go do AI
+    url: https://www.theverge.com/2023/3/8/23629095/duckduckgo-ai-answers-browser-app-extension-search
+  - title: Mini GPT-4
+    url: https://minigpt-4.github.io/
+  - title: Web LLM
+    url: https://github.com/mlc-ai/web-llm
+  - title: Sony invest into raspberry pi
+    url: https://www.sony.co.uk/presscentre/news/raspberry-pi-receives-strategic-investment-from-sony-semiconductor-solutions-corporation
+  - title: Bittorrent for language model
+    url: https://hackaday.com/2023/03/21/bittorrent-for-language-models/
+  - title: WHy lhamma is a big deal
+    url: https://hackaday.com/2023/03/22/why-llama-is-a-big-deal/
+  - title: SQL 2023
+    url: http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new
+  - title: llhama hub
+    url: https://llamahub.ai/
+  - title: Secret life of fsync
+    url: https://puzpuzpuz.dev/the-secret-life-of-fsync
+  - title: zylin zpu
+    url: https://github.com/zylin/zpu
+  - title: visual instruction tuning
+    url: https://llava-vl.github.io/
+  - title: AI inference
+    url: https://viper.cs.columbia.edu/
+  - title: How to give a good conference talk
+    url: https://switowski.com/blog/how-to-make-a-great-conference-talk/
+  - title: Python pattern for llm
+    url: https://til.simonwillison.net/llms/python-react-pattern
+  - title: fft image experiment
+    url: https://github.com/dmishin/fft-image-experiments
+
