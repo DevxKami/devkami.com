@@ -1,0 +1,34 @@
+links:
+  - title: How to shoot yourself in the foot in psql
+    url: https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql
+  - title: Second IC by zeloof
+    url: http://sam.zeloof.xyz/second-ic/
+  - title: AI ant farm
+    url: https://hackaday.com/2023/04/19/peering-down-into-talking-ant-hill/
+  - title: Design for generative AI app
+    url: https://medium.com/@Kerberosmansour/generative-ai-design-best-practices-for-web-applications-integrating-explanations-and-code-702fb90e8a24
+  - title: How rocks db work
+    url: https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/
+  - title: Web GPU fundamental
+    url: https://webgpufundamentals.org/
+  - title: ffmpeg color space
+    url: https://canvatechblog.com/a-journey-through-color-space-with-ffmpeg-3a129bfd9b05
+  - title: Self healing python script
+    url: https://github.com/biobootloader/wolverine
+  - title: LLM Zoo
+    url: https://github.com/FreedomIntelligence/LLMZoo
+  - title: Chatgpt python repl
+    url: https://isthisit.nz/posts/2023/building-a-chat-gpt-enhanced-python-repl/
+  - title: Python program that can save, query and version itself
+    url: https://amakelov.github.io/blog/pl/
+  - title: LLM Application in production
+    url: https://huyenchip.com/2023/04/11/llm-engineering.html
+  - title: Using observable plot in python
+    url: https://github.com/juba/pyobsplot
+  - title: Chatgpt in code
+    url: https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+  - title: Agent GPT
+    url: https://github.com/reworkd/AgentGPT
+  - title: AI brain store
+    url: https://github.com/mckaywrigley/ai-brainstore
+
