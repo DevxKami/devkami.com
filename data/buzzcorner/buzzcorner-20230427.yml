@@ -31,4 +31,13 @@ links:
     url: https://github.com/reworkd/AgentGPT
   - title: AI brain store
     url: https://github.com/mckaywrigley/ai-brainstore
-
+  - title: Open Source Text2IMG model
+    url: https://github.com/deep-floyd/IF
+  - title: linux desktop widgets
+    url: https://github.com/elkowar/eww
+  - title: chatapp with vicuna model
+    url: https://github.com/modal-labs/quillman
+  - title: Self supervise learning cookbook
+    url: https://arxiv.org/abs/2304.12210
+  - title: Table transformaer
+    url: https://github.com/microsoft/table-transformer
