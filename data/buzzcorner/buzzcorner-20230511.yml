@@ -1,0 +1,30 @@
+links:
+  - title: GNUPG add ADSK
+    url: https://gnupg.org/blog/20230321-adsk.html
+  - title: Amazon Prime video move away from serverless
+    url: https://world.hey.com/dhh/even-amazon-can-t-make-sense-of-serverless-or-microservices-59625580
+  - title: Beginners guide to eBPF
+    url: https://github.com/lizrice/ebpf-beginners
+  - title: How large language model works
+    url: https://www.nytimes.com/interactive/2023/04/26/upshot/gpt-from-scratch.html?unlocked_article_code=VaWxoL3zC5sB5BzV1DivHmJz68btYXff_87IUHid_5V3h0XJxwpAnGeLAgDCfc6YJEkbqvdWxA8_P7Ijhd23Mch-Y4XEE24ArLUZJyRkTIX6b-TLlMIKBrlVMAWmYXSMhHW-8XBPAU-4wBybhqungF7QrwrMilL1yPMJHn5ZpAMsYvtGVRUGwgwEO6xePLZnUuTdbHBVa9T6Nh4C5uq7_ewdVq56P1kJ7-Qlv1OcF96C32N3e4GtbVzphJMJTanursoPiLFuonMqaCleLymTH-4UgX7ovlCyygD-0f2Oqx5C2c67mLh4xZWWYUYJ7U_LZ4E5sp2TqD_GGQyPi3N1kkD-pOnW1TJPHg&smid=url-share
+  - title: DIY Thermal Cam
+    url: https://www.diy-thermocam.net/
+  - title: Is Ferret DB Mongodb compatible
+    url: https://youtu.be/s4tz4XcsF7U
+  - title: VIsual font for cantonese
+    url: https://visual-fonts.com/
+  - title: Web GPU
+    url: https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu
+  - title: Langchain on own file
+    url: https://www.reaminated.com/run-chatgpt-style-questions-over-your-own-files-using-the-openai-api-and-langchain
+  - title: AI compute
+    url: https://a16z.com/2023/04/27/navigating-the-high-cost-of-ai-compute/
+  - title: Trusted Publisher
+    url: https://blog.pypi.org/posts/2023-04-20-introducing-trusted-publishers/
+  - title: Netfilter vulnerability
+    url: https://seclists.org/oss-sec/2023/q2/133
+  - title: Tailscale new pricing
+    url: https://tailscale.com/blog/pricing-v3/
+  - title: Bcachefs
+    url: https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44
+
