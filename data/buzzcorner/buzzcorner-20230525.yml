@@ -1,0 +1,33 @@
+links:
+  - url: https://martinheinz.dev/blog/97
+    title: python concurrency update
+  - url: https://github.com/paulpierre/RasaGPT
+    title: Rasa GPT
+  - url: https://github.com/TabbyML/tabby
+    title: tabby self hosted coding assistant
+  - url: https://github.com/rmpr/atbswp
+    title: Macro recorder
+  - url: https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc
+    title: How to recover from microservice
+  - url: https://github.com/csunny/DB-GPT
+    title: local gpt to talk to db
+  - url: https://www.percona.com/blog/understanding-linux-iowait/
+    title: linux io wait
+  - url: https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html
+    title: exploring linux networking
+  - url: https://www.pinecone.io/learn/langchain/
+    title: langchain tutorial
+  - url: https://clickhouse.com/blog/ooni-analyzes-internet-censorship-data-with-clickhouse
+    title: ooni clickhouse
+  - url: https://www.youtube.com/watch?v=fDAPJ7rvcUw
+    title: New matrix multiplication
+  - url: https://twitter.com/tim_dettmers/status/1661379354507476994
+    title: smaller llm
+  - url: https://huggingface.co/blog/4bit-transformers-bitsandbytes#does-fp4-quantization-have-any-hardware-requirements
+    title: As above
+  - url: windows rtx
+    title: https://blogs.nvidia.com/blog/2023/05/23/microsoft-build-nvidia-ai-windows-rtx/
+  - url: https://martinfowler.com/articles/dependency-composition.html
+    title: Dependency Composition
+  - url: https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/
+    title: Canvas color fill
