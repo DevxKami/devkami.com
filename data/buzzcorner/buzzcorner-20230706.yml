@@ -1,0 +1,28 @@
+links:
+  - title: Regex internal as library
+    url: https://blog.burntsushi.net/regex-internals/
+  - title: Building Boba AI
+    url: https://martinfowler.com/articles/building-boba.html
+  - title: Forgotten vintage computer
+    url: https://www.vice.com/en/article/ak3k34/2200-forgotten-vintage-computers-are-being-liberated-from-a-barn-in-massachusetts
+  - title: CPU Utilization is wrong
+    url: https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html
+  - title: Apple macintosh the engineer story
+    url: https://spectrum.ieee.org/apple-macintosh
+  - title: Efficient jagged array
+    url: https://zeux.io/2023/06/30/efficient-jagged-arrays/
+  - title: White rabbit network
+    url: https://ohwr.org/project/white-rabbit/wikis/home
+  - title: cloud backed sqlite
+    url: https://sqlite.org/cloudsqlite/doc/trunk/www/index.wiki
+  - title: How platform engineering work
+    url: https://chadxz.dev/platform/
+  - title: LLM driven agent
+    url: https://lilianweng.github.io/posts/2023-06-23-agent/
+  - title: Debug like competitive programmer
+    url: https://albexl.substack.com/p/a-tale-of-debugging-the-competitive
+  - title: numpy speedup
+    url: https://pythonspeed.com/articles/numpy-is-slow/
+  - title: An easy way to embed to llm
+    url: https://github.com/embedchain/embedchain
+
